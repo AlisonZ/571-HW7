@@ -1,0 +1,9760 @@
+[
+  {
+    "text": "The Fulton County Grand Jury said Friday an investigation of Atlanta 's recent primary election produced `` no evidence '' that any irregularities took place .",
+    "tokens": [
+      {
+        "text": "The",
+        "lemma": "The"
+      },
+      {
+        "text": "Fulton County Grand Jury",
+        "wnsn": "1",
+        "lemma": "group"
+      },
+      {
+        "text": "said",
+        "wnsn": "1",
+        "lemma": "say"
+      },
+      {
+        "text": "Friday",
+        "wnsn": "1",
+        "lemma": "friday"
+      },
+      {
+        "text": "an",
+        "lemma": "an"
+      },
+      {
+        "text": "investigation",
+        "wnsn": "1",
+        "lemma": "investigation"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "Atlanta",
+        "wnsn": "1",
+        "lemma": "atlanta"
+      },
+      {
+        "text": "'s",
+        "lemma": "'s"
+      },
+      {
+        "text": "recent",
+        "wnsn": "2",
+        "lemma": "recent"
+      },
+      {
+        "text": "primary election",
+        "wnsn": "1",
+        "lemma": "primary_election"
+      },
+      {
+        "text": "produced",
+        "wnsn": "4",
+        "lemma": "produce"
+      },
+      {
+        "text": "``",
+        "lemma": "``"
+      },
+      {
+        "text": "no",
+        "lemma": "no"
+      },
+      {
+        "text": "evidence",
+        "wnsn": "1",
+        "lemma": "evidence"
+      },
+      {
+        "text": "''",
+        "lemma": "''"
+      },
+      {
+        "text": "that",
+        "lemma": "that"
+      },
+      {
+        "text": "any",
+        "lemma": "any"
+      },
+      {
+        "text": "irregularities",
+        "wnsn": "1",
+        "lemma": "irregularity"
+      },
+      {
+        "text": "took place",
+        "wnsn": "1",
+        "lemma": "take_place"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "The jury further said in term end presentments that the City Executive Committee , which had over-all charge of the election , `` deserves the praise and thanks of the City of Atlanta '' for the manner in which the election was conducted .",
+    "tokens": [
+      {
+        "text": "The",
+        "lemma": "The"
+      },
+      {
+        "text": "jury",
+        "wnsn": "1",
+        "lemma": "jury"
+      },
+      {
+        "text": "further",
+        "wnsn": "2",
+        "lemma": "far"
+      },
+      {
+        "text": "said",
+        "wnsn": "1",
+        "lemma": "say"
+      },
+      {
+        "text": "in",
+        "lemma": "in"
+      },
+      {
+        "text": "term",
+        "wnsn": "2",
+        "lemma": "term"
+      },
+      {
+        "text": "end",
+        "wnsn": "2",
+        "lemma": "end"
+      },
+      {
+        "text": "presentments",
+        "wnsn": "1",
+        "lemma": "presentment"
+      },
+      {
+        "text": "that",
+        "lemma": "that"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "City Executive Committee",
+        "wnsn": "1",
+        "lemma": "group"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "which",
+        "lemma": "which"
+      },
+      {
+        "text": "had",
+        "wnsn": "4",
+        "lemma": "have"
+      },
+      {
+        "text": "over-all",
+        "wnsn": "2",
+        "lemma": "overall"
+      },
+      {
+        "text": "charge",
+        "wnsn": "6",
+        "lemma": "charge"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "election",
+        "wnsn": "1",
+        "lemma": "election"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "``",
+        "lemma": "``"
+      },
+      {
+        "text": "deserves",
+        "wnsn": "1",
+        "lemma": "deserve"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "praise",
+        "wnsn": "1",
+        "lemma": "praise"
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "thanks",
+        "wnsn": "1",
+        "lemma": "thanks"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "City of Atlanta",
+        "wnsn": "1",
+        "lemma": "location"
+      },
+      {
+        "text": "''",
+        "lemma": "''"
+      },
+      {
+        "text": "for",
+        "lemma": "for"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "manner",
+        "wnsn": "1",
+        "lemma": "manner"
+      },
+      {
+        "text": "in",
+        "lemma": "in"
+      },
+      {
+        "text": "which",
+        "lemma": "which"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "election",
+        "wnsn": "1",
+        "lemma": "election"
+      },
+      {
+        "text": "was",
+        "lemma": "was"
+      },
+      {
+        "text": "conducted",
+        "wnsn": "1",
+        "lemma": "conduct"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "The September October term jury had been charged by Fulton Superior Court Judge Durwood Pye to investigate reports of possible `` irregularities '' in the hard-fought primary which was won by Mayor-nominate Ivan Allen Jr. .",
+    "tokens": [
+      {
+        "text": "The",
+        "lemma": "The"
+      },
+      {
+        "text": "September",
+        "wnsn": "1",
+        "lemma": "september"
+      },
+      {
+        "text": "October",
+        "wnsn": "1",
+        "lemma": "october"
+      },
+      {
+        "text": "term",
+        "wnsn": "2",
+        "lemma": "term"
+      },
+      {
+        "text": "jury",
+        "wnsn": "1",
+        "lemma": "jury"
+      },
+      {
+        "text": "had",
+        "lemma": "had"
+      },
+      {
+        "text": "been",
+        "lemma": "been"
+      },
+      {
+        "text": "charged",
+        "wnsn": "5",
+        "lemma": "charge"
+      },
+      {
+        "text": "by",
+        "lemma": "by"
+      },
+      {
+        "text": "Fulton",
+        "wnsn": "1",
+        "lemma": "location"
+      },
+      {
+        "text": "Superior Court Judge Durwood Pye",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "investigate",
+        "wnsn": "2",
+        "lemma": "investigate"
+      },
+      {
+        "text": "reports",
+        "wnsn": "3",
+        "lemma": "report"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "possible",
+        "wnsn": "2",
+        "lemma": "possible"
+      },
+      {
+        "text": "``",
+        "lemma": "``"
+      },
+      {
+        "text": "irregularities",
+        "wnsn": "1",
+        "lemma": "irregularity"
+      },
+      {
+        "text": "''",
+        "lemma": "''"
+      },
+      {
+        "text": "in",
+        "lemma": "in"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "hard-fought",
+        "wnsn": "1",
+        "lemma": "hard-fought"
+      },
+      {
+        "text": "primary",
+        "wnsn": "1",
+        "lemma": "primary"
+      },
+      {
+        "text": "which",
+        "lemma": "which"
+      },
+      {
+        "text": "was",
+        "lemma": "was"
+      },
+      {
+        "text": "won",
+        "wnsn": "1",
+        "lemma": "win"
+      },
+      {
+        "text": "by",
+        "lemma": "by"
+      },
+      {
+        "text": "Mayor-nominate Ivan Allen Jr.",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "`` Only a relative handful of such reports was received '' , the jury said , `` considering the widespread interest in the election , the number of voters and the size of this city '' .",
+    "tokens": [
+      {
+        "text": "``",
+        "lemma": "``"
+      },
+      {
+        "text": "Only",
+        "wnsn": "1",
+        "lemma": "only"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "relative",
+        "wnsn": "1",
+        "lemma": "relative"
+      },
+      {
+        "text": "handful",
+        "wnsn": "1",
+        "lemma": "handful"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "such",
+        "wnsn": "0",
+        "lemma": "such"
+      },
+      {
+        "text": "reports",
+        "wnsn": "3",
+        "lemma": "report"
+      },
+      {
+        "text": "was",
+        "lemma": "was"
+      },
+      {
+        "text": "received",
+        "wnsn": "2",
+        "lemma": "receive"
+      },
+      {
+        "text": "''",
+        "lemma": "''"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "jury",
+        "wnsn": "1",
+        "lemma": "jury"
+      },
+      {
+        "text": "said",
+        "wnsn": "1",
+        "lemma": "say"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "``",
+        "lemma": "``"
+      },
+      {
+        "text": "considering",
+        "wnsn": "4",
+        "lemma": "consider"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "widespread",
+        "wnsn": "1",
+        "lemma": "widespread"
+      },
+      {
+        "text": "interest",
+        "wnsn": "1",
+        "lemma": "interest"
+      },
+      {
+        "text": "in",
+        "lemma": "in"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "election",
+        "wnsn": "1",
+        "lemma": "election"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "number",
+        "wnsn": "2",
+        "lemma": "number"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "voters",
+        "wnsn": "1",
+        "lemma": "voter"
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "size",
+        "wnsn": "1",
+        "lemma": "size"
+      },
+      {
+        "text": "of this",
+        "lemma": "of_this"
+      },
+      {
+        "text": "city",
+        "wnsn": "1",
+        "lemma": "city"
+      },
+      {
+        "text": "''",
+        "lemma": "''"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "The jury said it did find that many of Georgia 's registration and election laws `` are outmoded or inadequate and often ambiguous '' .",
+    "tokens": [
+      {
+        "text": "The",
+        "lemma": "The"
+      },
+      {
+        "text": "jury",
+        "wnsn": "1",
+        "lemma": "jury"
+      },
+      {
+        "text": "said",
+        "wnsn": "2",
+        "lemma": "say"
+      },
+      {
+        "text": "it",
+        "lemma": "it"
+      },
+      {
+        "text": "did",
+        "lemma": "did"
+      },
+      {
+        "text": "find",
+        "wnsn": "1",
+        "lemma": "find"
+      },
+      {
+        "text": "that",
+        "lemma": "that"
+      },
+      {
+        "text": "many of",
+        "lemma": "many_of"
+      },
+      {
+        "text": "Georgia",
+        "wnsn": "1",
+        "lemma": "georgia"
+      },
+      {
+        "text": "'s",
+        "lemma": "'s"
+      },
+      {
+        "text": "registration",
+        "wnsn": "1",
+        "lemma": "registration"
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "election",
+        "wnsn": "1",
+        "lemma": "election"
+      },
+      {
+        "text": "laws",
+        "wnsn": "2",
+        "lemma": "law"
+      },
+      {
+        "text": "``",
+        "lemma": "``"
+      },
+      {
+        "text": "are",
+        "wnsn": "1",
+        "lemma": "be"
+      },
+      {
+        "text": "outmoded",
+        "wnsn": "1",
+        "lemma": "outmoded"
+      },
+      {
+        "text": "or",
+        "lemma": "or"
+      },
+      {
+        "text": "inadequate",
+        "wnsn": "1",
+        "lemma": "inadequate"
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "often",
+        "wnsn": "1",
+        "lemma": "often"
+      },
+      {
+        "text": "ambiguous",
+        "wnsn": "2",
+        "lemma": "ambiguous"
+      },
+      {
+        "text": "''",
+        "lemma": "''"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "It recommended that Fulton legislators act `` to have these laws studied and revised to the end of modernizing and improving them '' .",
+    "tokens": [
+      {
+        "text": "It",
+        "lemma": "It"
+      },
+      {
+        "text": "recommended",
+        "wnsn": "1",
+        "lemma": "recommend"
+      },
+      {
+        "text": "that",
+        "lemma": "that"
+      },
+      {
+        "text": "Fulton",
+        "wnsn": "1",
+        "lemma": "location"
+      },
+      {
+        "text": "legislators",
+        "wnsn": "1",
+        "lemma": "legislator"
+      },
+      {
+        "text": "act",
+        "wnsn": "1",
+        "lemma": "act"
+      },
+      {
+        "text": "``",
+        "lemma": "``"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "have",
+        "wnsn": "5",
+        "lemma": "have"
+      },
+      {
+        "text": "these",
+        "lemma": "these"
+      },
+      {
+        "text": "laws",
+        "wnsn": "2",
+        "lemma": "law"
+      },
+      {
+        "text": "studied",
+        "wnsn": "1",
+        "lemma": "study"
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "revised",
+        "wnsn": "1",
+        "lemma": "revise"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "end",
+        "wnsn": "4",
+        "lemma": "end"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "modernizing",
+        "wnsn": "1",
+        "lemma": "modernize"
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "improving",
+        "wnsn": "2",
+        "lemma": "improve"
+      },
+      {
+        "text": "them",
+        "lemma": "them"
+      },
+      {
+        "text": "''",
+        "lemma": "''"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "The grand jury commented on a number of other topics , among them the Atlanta and Fulton County purchasing departments which it said `` are well operated and follow generally accepted practices which inure to the best interest of both governments '' .",
+    "tokens": [
+      {
+        "text": "The",
+        "lemma": "The"
+      },
+      {
+        "text": "grand jury",
+        "wnsn": "1",
+        "lemma": "grand_jury"
+      },
+      {
+        "text": "commented",
+        "wnsn": "1",
+        "lemma": "comment"
+      },
+      {
+        "text": "on",
+        "lemma": "on"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "number",
+        "wnsn": "1",
+        "lemma": "number"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "other",
+        "wnsn": "1",
+        "lemma": "other"
+      },
+      {
+        "text": "topics",
+        "wnsn": "2",
+        "lemma": "topic"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "among",
+        "lemma": "among"
+      },
+      {
+        "text": "them",
+        "lemma": "them"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "Atlanta",
+        "wnsn": "1",
+        "lemma": "atlanta"
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "Fulton County",
+        "wnsn": "1",
+        "lemma": "location"
+      },
+      {
+        "text": "purchasing departments",
+        "wnsn": "1",
+        "lemma": "purchasing_department"
+      },
+      {
+        "text": "which",
+        "lemma": "which"
+      },
+      {
+        "text": "it",
+        "lemma": "it"
+      },
+      {
+        "text": "said",
+        "wnsn": "2",
+        "lemma": "say"
+      },
+      {
+        "text": "``",
+        "lemma": "``"
+      },
+      {
+        "text": "are",
+        "wnsn": "1",
+        "lemma": "be"
+      },
+      {
+        "text": "well",
+        "wnsn": "1",
+        "lemma": "well"
+      },
+      {
+        "text": "operated",
+        "wnsn": "2",
+        "lemma": "operate"
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "follow",
+        "wnsn": "9",
+        "lemma": "follow"
+      },
+      {
+        "text": "generally",
+        "wnsn": "1",
+        "lemma": "generally"
+      },
+      {
+        "text": "accepted",
+        "wnsn": "0",
+        "lemma": "accepted"
+      },
+      {
+        "text": "practices",
+        "wnsn": "1",
+        "lemma": "practice"
+      },
+      {
+        "text": "which",
+        "lemma": "which"
+      },
+      {
+        "text": "inure",
+        "wnsn": "1",
+        "lemma": "inure"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "best",
+        "wnsn": "1",
+        "lemma": "best"
+      },
+      {
+        "text": "interest",
+        "wnsn": "2",
+        "lemma": "interest"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "both",
+        "lemma": "both"
+      },
+      {
+        "text": "governments",
+        "wnsn": "1",
+        "lemma": "government"
+      },
+      {
+        "text": "''",
+        "lemma": "''"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "However , the jury said it believes `` these two offices should be combined to achieve greater efficiency and reduce the cost of administration '' .",
+    "tokens": [
+      {
+        "text": "However",
+        "wnsn": "1",
+        "lemma": "however"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "jury",
+        "wnsn": "1",
+        "lemma": "jury"
+      },
+      {
+        "text": "said",
+        "wnsn": "2",
+        "lemma": "say"
+      },
+      {
+        "text": "it",
+        "lemma": "it"
+      },
+      {
+        "text": "believes",
+        "wnsn": "3",
+        "lemma": "believe"
+      },
+      {
+        "text": "``",
+        "lemma": "``"
+      },
+      {
+        "text": "these",
+        "lemma": "these"
+      },
+      {
+        "text": "two",
+        "wnsn": "1",
+        "lemma": "two"
+      },
+      {
+        "text": "offices",
+        "wnsn": "2",
+        "lemma": "office"
+      },
+      {
+        "text": "should",
+        "lemma": "should"
+      },
+      {
+        "text": "be",
+        "lemma": "be"
+      },
+      {
+        "text": "combined",
+        "wnsn": "0",
+        "lemma": "combined"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "achieve",
+        "wnsn": "1",
+        "lemma": "achieve"
+      },
+      {
+        "text": "greater",
+        "wnsn": "0",
+        "lemma": "great"
+      },
+      {
+        "text": "efficiency",
+        "wnsn": "2",
+        "lemma": "efficiency"
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "reduce",
+        "wnsn": "1",
+        "lemma": "reduce"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "cost",
+        "wnsn": "1",
+        "lemma": "cost"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "administration",
+        "wnsn": "1",
+        "lemma": "administration"
+      },
+      {
+        "text": "''",
+        "lemma": "''"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "The City Purchasing Department , the jury said , `` is lacking in experienced clerical personnel as a result of city personnel policies '' .",
+    "tokens": [
+      {
+        "text": "The",
+        "lemma": "The"
+      },
+      {
+        "text": "City Purchasing Department",
+        "wnsn": "1",
+        "lemma": "group"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "jury",
+        "wnsn": "1",
+        "lemma": "jury"
+      },
+      {
+        "text": "said",
+        "wnsn": "2",
+        "lemma": "say"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "``",
+        "lemma": "``"
+      },
+      {
+        "text": "is",
+        "wnsn": "1",
+        "lemma": "be"
+      },
+      {
+        "text": "lacking",
+        "wnsn": "1",
+        "lemma": "lacking"
+      },
+      {
+        "text": "in",
+        "lemma": "in"
+      },
+      {
+        "text": "experienced",
+        "wnsn": "1",
+        "lemma": "experienced"
+      },
+      {
+        "text": "clerical",
+        "wnsn": "1",
+        "lemma": "clerical"
+      },
+      {
+        "text": "personnel",
+        "wnsn": "1",
+        "lemma": "personnel"
+      },
+      {
+        "text": "as",
+        "lemma": "as"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "result",
+        "wnsn": "1",
+        "lemma": "result"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "city",
+        "wnsn": "2",
+        "lemma": "city"
+      },
+      {
+        "text": "personnel",
+        "wnsn": "1",
+        "lemma": "personnel"
+      },
+      {
+        "text": "policies",
+        "wnsn": "1",
+        "lemma": "policy"
+      },
+      {
+        "text": "''",
+        "lemma": "''"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "It urged that the city `` take steps to remedy '' this problem .",
+    "tokens": [
+      {
+        "text": "It",
+        "lemma": "It"
+      },
+      {
+        "text": "urged",
+        "wnsn": "1",
+        "lemma": "urge"
+      },
+      {
+        "text": "that",
+        "lemma": "that"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "city",
+        "wnsn": "2",
+        "lemma": "city"
+      },
+      {
+        "text": "``",
+        "lemma": "``"
+      },
+      {
+        "text": "take",
+        "wnsn": "1",
+        "lemma": "take"
+      },
+      {
+        "text": "steps",
+        "wnsn": "1",
+        "lemma": "step"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "remedy",
+        "wnsn": "1",
+        "lemma": "remedy"
+      },
+      {
+        "text": "''",
+        "lemma": "''"
+      },
+      {
+        "text": "this",
+        "lemma": "this"
+      },
+      {
+        "text": "problem",
+        "wnsn": "2",
+        "lemma": "problem"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "Implementation of Georgia 's automobile title law was also recommended by the outgoing jury .",
+    "tokens": [
+      {
+        "text": "Implementation",
+        "wnsn": "1",
+        "lemma": "implementation"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "Georgia",
+        "wnsn": "1",
+        "lemma": "georgia"
+      },
+      {
+        "text": "'s",
+        "lemma": "'s"
+      },
+      {
+        "text": "automobile",
+        "wnsn": "1",
+        "lemma": "automobile"
+      },
+      {
+        "text": "title",
+        "wnsn": "5",
+        "lemma": "title"
+      },
+      {
+        "text": "law",
+        "wnsn": "2",
+        "lemma": "law"
+      },
+      {
+        "text": "was",
+        "lemma": "was"
+      },
+      {
+        "text": "also",
+        "wnsn": "1",
+        "lemma": "also"
+      },
+      {
+        "text": "recommended",
+        "wnsn": "1",
+        "lemma": "recommend"
+      },
+      {
+        "text": "by",
+        "lemma": "by"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "outgoing",
+        "wnsn": "1",
+        "lemma": "outgoing"
+      },
+      {
+        "text": "jury",
+        "wnsn": "1",
+        "lemma": "jury"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "It urged that the next Legislature `` provide enabling funds and re-set the effective date so that an orderly implementation of the law may be effected '' .",
+    "tokens": [
+      {
+        "text": "It",
+        "lemma": "It"
+      },
+      {
+        "text": "urged",
+        "wnsn": "1",
+        "lemma": "urge"
+      },
+      {
+        "text": "that",
+        "lemma": "that"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "next",
+        "wnsn": "3",
+        "lemma": "next"
+      },
+      {
+        "text": "Legislature",
+        "wnsn": "1",
+        "lemma": "legislature"
+      },
+      {
+        "text": "``",
+        "lemma": "``"
+      },
+      {
+        "text": "provide",
+        "wnsn": "1",
+        "lemma": "provide"
+      },
+      {
+        "text": "enabling",
+        "wnsn": "1",
+        "lemma": "enabling"
+      },
+      {
+        "text": "funds",
+        "wnsn": "1",
+        "lemma": "fund"
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "re-set",
+        "wnsn": "1",
+        "lemma": "reset"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "effective",
+        "wnsn": "4",
+        "lemma": "effective"
+      },
+      {
+        "text": "date",
+        "wnsn": "1",
+        "lemma": "date"
+      },
+      {
+        "text": "so that",
+        "lemma": "so_that"
+      },
+      {
+        "text": "an",
+        "lemma": "an"
+      },
+      {
+        "text": "orderly",
+        "wnsn": "0",
+        "lemma": "orderly"
+      },
+      {
+        "text": "implementation",
+        "wnsn": "1",
+        "lemma": "implementation"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "law",
+        "wnsn": "2",
+        "lemma": "law"
+      },
+      {
+        "text": "may",
+        "lemma": "may"
+      },
+      {
+        "text": "be",
+        "lemma": "be"
+      },
+      {
+        "text": "effected",
+        "wnsn": "1",
+        "lemma": "effect"
+      },
+      {
+        "text": "''",
+        "lemma": "''"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "The grand jury took a swipe at the State Welfare Department 's handling of federal funds granted for child welfare services in foster homes .",
+    "tokens": [
+      {
+        "text": "The",
+        "lemma": "The"
+      },
+      {
+        "text": "grand jury",
+        "wnsn": "1",
+        "lemma": "grand_jury"
+      },
+      {
+        "text": "took a swipe at",
+        "lemma": "took_a_swipe_at"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "State Welfare Department",
+        "wnsn": "1",
+        "lemma": "group"
+      },
+      {
+        "text": "'s",
+        "lemma": "'s"
+      },
+      {
+        "text": "handling",
+        "wnsn": "1",
+        "lemma": "handling"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "federal",
+        "wnsn": "1",
+        "lemma": "federal"
+      },
+      {
+        "text": "funds",
+        "wnsn": "1",
+        "lemma": "fund"
+      },
+      {
+        "text": "granted",
+        "wnsn": "0",
+        "lemma": "granted"
+      },
+      {
+        "text": "for",
+        "lemma": "for"
+      },
+      {
+        "text": "child welfare services",
+        "wnsn": "1",
+        "lemma": "child_welfare_service"
+      },
+      {
+        "text": "in",
+        "lemma": "in"
+      },
+      {
+        "text": "foster homes",
+        "wnsn": "1",
+        "lemma": "foster_home"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "`` This is one of the major items in the Fulton County general assistance program '' , the jury said , but the State Welfare Department `` has seen fit to distribute these funds through the welfare departments of all the counties in the state with the exception of Fulton County , which receives none of this money .",
+    "tokens": [
+      {
+        "text": "``",
+        "lemma": "``"
+      },
+      {
+        "text": "This",
+        "lemma": "This"
+      },
+      {
+        "text": "is",
+        "wnsn": "2",
+        "lemma": "be"
+      },
+      {
+        "text": "one",
+        "wnsn": "1",
+        "lemma": "one"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "major",
+        "wnsn": "1",
+        "lemma": "major"
+      },
+      {
+        "text": "items",
+        "wnsn": "4",
+        "lemma": "item"
+      },
+      {
+        "text": "in",
+        "lemma": "in"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "Fulton County",
+        "wnsn": "1",
+        "lemma": "location"
+      },
+      {
+        "text": "general",
+        "wnsn": "1",
+        "lemma": "general"
+      },
+      {
+        "text": "assistance",
+        "wnsn": "1",
+        "lemma": "assistance"
+      },
+      {
+        "text": "program",
+        "wnsn": "1",
+        "lemma": "program"
+      },
+      {
+        "text": "''",
+        "lemma": "''"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "jury",
+        "wnsn": "1",
+        "lemma": "jury"
+      },
+      {
+        "text": "said",
+        "wnsn": "2",
+        "lemma": "say"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "but",
+        "lemma": "but"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "State Welfare Department",
+        "wnsn": "1",
+        "lemma": "group"
+      },
+      {
+        "text": "``",
+        "lemma": "``"
+      },
+      {
+        "text": "has",
+        "lemma": "has"
+      },
+      {
+        "text": "seen fit",
+        "lemma": "seen_fit"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "distribute",
+        "wnsn": "1",
+        "lemma": "distribute"
+      },
+      {
+        "text": "these",
+        "lemma": "these"
+      },
+      {
+        "text": "funds",
+        "wnsn": "1",
+        "lemma": "fund"
+      },
+      {
+        "text": "through",
+        "lemma": "through"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "welfare",
+        "wnsn": "1",
+        "lemma": "welfare"
+      },
+      {
+        "text": "departments",
+        "wnsn": "1",
+        "lemma": "department"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "all",
+        "wnsn": "1",
+        "lemma": "all"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "counties",
+        "wnsn": "1",
+        "lemma": "county"
+      },
+      {
+        "text": "in",
+        "lemma": "in"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "state",
+        "wnsn": "1",
+        "lemma": "state"
+      },
+      {
+        "text": "with",
+        "lemma": "with"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "exception",
+        "wnsn": "1",
+        "lemma": "exception"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "Fulton County",
+        "wnsn": "1",
+        "lemma": "location"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "which",
+        "lemma": "which"
+      },
+      {
+        "text": "receives",
+        "wnsn": "1",
+        "lemma": "receive"
+      },
+      {
+        "text": "none",
+        "lemma": "none"
+      },
+      {
+        "text": "of this",
+        "lemma": "of_this"
+      },
+      {
+        "text": "money",
+        "wnsn": "1",
+        "lemma": "money"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "The jurors said they realize `` a proportionate distribution of these funds might disable this program in our less populous counties '' .",
+    "tokens": [
+      {
+        "text": "The",
+        "lemma": "The"
+      },
+      {
+        "text": "jurors",
+        "wnsn": "1",
+        "lemma": "juror"
+      },
+      {
+        "text": "said",
+        "wnsn": "1",
+        "lemma": "say"
+      },
+      {
+        "text": "they",
+        "lemma": "they"
+      },
+      {
+        "text": "realize",
+        "wnsn": "1",
+        "lemma": "realize"
+      },
+      {
+        "text": "``",
+        "lemma": "``"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "proportionate",
+        "wnsn": "2",
+        "lemma": "proportionate"
+      },
+      {
+        "text": "distribution",
+        "wnsn": "2",
+        "lemma": "distribution"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "these",
+        "lemma": "these"
+      },
+      {
+        "text": "funds",
+        "wnsn": "1",
+        "lemma": "fund"
+      },
+      {
+        "text": "might",
+        "lemma": "might"
+      },
+      {
+        "text": "disable",
+        "wnsn": "1",
+        "lemma": "disable"
+      },
+      {
+        "text": "this",
+        "lemma": "this"
+      },
+      {
+        "text": "program",
+        "wnsn": "1",
+        "lemma": "program"
+      },
+      {
+        "text": "in",
+        "lemma": "in"
+      },
+      {
+        "text": "our",
+        "lemma": "our"
+      },
+      {
+        "text": "less",
+        "wnsn": "1",
+        "lemma": "less"
+      },
+      {
+        "text": "populous",
+        "wnsn": "1",
+        "lemma": "populous"
+      },
+      {
+        "text": "counties",
+        "wnsn": "1",
+        "lemma": "county"
+      },
+      {
+        "text": "''",
+        "lemma": "''"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "Nevertheless , `` we feel that in the future Fulton County should receive some portion of these available funds '' , the jurors said .",
+    "tokens": [
+      {
+        "text": "Nevertheless",
+        "wnsn": "1",
+        "lemma": "nevertheless"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "``",
+        "lemma": "``"
+      },
+      {
+        "text": "we",
+        "lemma": "we"
+      },
+      {
+        "text": "feel",
+        "wnsn": "2",
+        "lemma": "feel"
+      },
+      {
+        "text": "that",
+        "lemma": "that"
+      },
+      {
+        "text": "in the future",
+        "lemma": "in_the_future"
+      },
+      {
+        "text": "Fulton County",
+        "wnsn": "1",
+        "lemma": "location"
+      },
+      {
+        "text": "should",
+        "lemma": "should"
+      },
+      {
+        "text": "receive",
+        "wnsn": "1",
+        "lemma": "receive"
+      },
+      {
+        "text": "some",
+        "wnsn": "1",
+        "lemma": "some"
+      },
+      {
+        "text": "portion",
+        "wnsn": "3",
+        "lemma": "portion"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "these",
+        "lemma": "these"
+      },
+      {
+        "text": "available",
+        "wnsn": "1",
+        "lemma": "available"
+      },
+      {
+        "text": "funds",
+        "wnsn": "1",
+        "lemma": "fund"
+      },
+      {
+        "text": "''",
+        "lemma": "''"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "jurors",
+        "wnsn": "1",
+        "lemma": "juror"
+      },
+      {
+        "text": "said",
+        "wnsn": "2",
+        "lemma": "say"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "`` Failure to do this will continue to place a disproportionate burden '' on Fulton taxpayers .",
+    "tokens": [
+      {
+        "text": "``",
+        "lemma": "``"
+      },
+      {
+        "text": "Failure",
+        "wnsn": "1",
+        "lemma": "failure"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "do",
+        "wnsn": "1",
+        "lemma": "do"
+      },
+      {
+        "text": "this",
+        "lemma": "this"
+      },
+      {
+        "text": "will",
+        "lemma": "will"
+      },
+      {
+        "text": "continue",
+        "wnsn": "1",
+        "lemma": "continue"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "place",
+        "wnsn": "1",
+        "lemma": "place"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "disproportionate",
+        "wnsn": "1",
+        "lemma": "disproportionate"
+      },
+      {
+        "text": "burden",
+        "wnsn": "1",
+        "lemma": "burden"
+      },
+      {
+        "text": "''",
+        "lemma": "''"
+      },
+      {
+        "text": "on",
+        "lemma": "on"
+      },
+      {
+        "text": "Fulton",
+        "wnsn": "1",
+        "lemma": "location"
+      },
+      {
+        "text": "taxpayers",
+        "wnsn": "1",
+        "lemma": "taxpayer"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "The jury also commented on the Fulton ordinary 's court which has been under fire for its practices in the appointment of appraisers , guardians and administrators and the awarding of fees and compensation .",
+    "tokens": [
+      {
+        "text": "The",
+        "lemma": "The"
+      },
+      {
+        "text": "jury",
+        "wnsn": "1",
+        "lemma": "jury"
+      },
+      {
+        "text": "also",
+        "wnsn": "1",
+        "lemma": "also"
+      },
+      {
+        "text": "commented",
+        "wnsn": "1",
+        "lemma": "comment"
+      },
+      {
+        "text": "on",
+        "lemma": "on"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "Fulton",
+        "wnsn": "1",
+        "lemma": "location"
+      },
+      {
+        "text": "ordinary",
+        "wnsn": "2",
+        "lemma": "ordinary"
+      },
+      {
+        "text": "'s",
+        "lemma": "'s"
+      },
+      {
+        "text": "court",
+        "wnsn": "1",
+        "lemma": "court"
+      },
+      {
+        "text": "which",
+        "lemma": "which"
+      },
+      {
+        "text": "has",
+        "lemma": "has"
+      },
+      {
+        "text": "been",
+        "lemma": "been"
+      },
+      {
+        "text": "under fire",
+        "wnsn": "1",
+        "lemma": "under_fire"
+      },
+      {
+        "text": "for",
+        "lemma": "for"
+      },
+      {
+        "text": "its",
+        "lemma": "its"
+      },
+      {
+        "text": "practices",
+        "wnsn": "1",
+        "lemma": "practice"
+      },
+      {
+        "text": "in",
+        "lemma": "in"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "appointment",
+        "wnsn": "1",
+        "lemma": "appointment"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "appraisers",
+        "wnsn": "1",
+        "lemma": "appraiser"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "guardians",
+        "wnsn": "1",
+        "lemma": "guardian"
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "administrators",
+        "wnsn": "1",
+        "lemma": "administrator"
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "awarding",
+        "wnsn": "1",
+        "lemma": "awarding"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "fees",
+        "wnsn": "1",
+        "lemma": "fee"
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "compensation",
+        "wnsn": "1",
+        "lemma": "compensation"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "The jury said it found the court `` has incorporated into its operating procedures the recommendations '' of two previous grand juries , the Atlanta Bar Association and an interim citizens committee .",
+    "tokens": [
+      {
+        "text": "The",
+        "lemma": "The"
+      },
+      {
+        "text": "jury",
+        "wnsn": "1",
+        "lemma": "jury"
+      },
+      {
+        "text": "said",
+        "wnsn": "2",
+        "lemma": "say"
+      },
+      {
+        "text": "it",
+        "lemma": "it"
+      },
+      {
+        "text": "found",
+        "wnsn": "4",
+        "lemma": "find"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "court",
+        "wnsn": "1",
+        "lemma": "court"
+      },
+      {
+        "text": "``",
+        "lemma": "``"
+      },
+      {
+        "text": "has",
+        "lemma": "has"
+      },
+      {
+        "text": "incorporated",
+        "wnsn": "1",
+        "lemma": "incorporate"
+      },
+      {
+        "text": "into",
+        "lemma": "into"
+      },
+      {
+        "text": "its",
+        "lemma": "its"
+      },
+      {
+        "text": "operating procedures",
+        "wnsn": "1",
+        "lemma": "operating_procedure"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "recommendations",
+        "wnsn": "1",
+        "lemma": "recommendation"
+      },
+      {
+        "text": "''",
+        "lemma": "''"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "two",
+        "wnsn": "1",
+        "lemma": "two"
+      },
+      {
+        "text": "previous",
+        "wnsn": "1",
+        "lemma": "previous"
+      },
+      {
+        "text": "grand juries",
+        "wnsn": "1",
+        "lemma": "grand_jury"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "Atlanta Bar Association",
+        "wnsn": "1",
+        "lemma": "group"
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "an",
+        "lemma": "an"
+      },
+      {
+        "text": "interim",
+        "wnsn": "1",
+        "lemma": "interim"
+      },
+      {
+        "text": "citizens committee",
+        "wnsn": "1",
+        "lemma": "citizens_committee"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "`` These actions should serve to protect in fact and in effect the court 's wards from undue costs and its appointed and elected servants from unmeritorious criticisms '' , the jury said .",
+    "tokens": [
+      {
+        "text": "``",
+        "lemma": "``"
+      },
+      {
+        "text": "These",
+        "lemma": "These"
+      },
+      {
+        "text": "actions",
+        "wnsn": "1",
+        "lemma": "action"
+      },
+      {
+        "text": "should",
+        "lemma": "should"
+      },
+      {
+        "text": "serve",
+        "wnsn": "3",
+        "lemma": "serve"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "protect",
+        "wnsn": "1",
+        "lemma": "protect"
+      },
+      {
+        "text": "in fact",
+        "wnsn": "1",
+        "lemma": "in_fact"
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "in effect",
+        "wnsn": "1",
+        "lemma": "in_effect"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "court",
+        "wnsn": "1",
+        "lemma": "court"
+      },
+      {
+        "text": "'s",
+        "lemma": "'s"
+      },
+      {
+        "text": "wards",
+        "wnsn": "1",
+        "lemma": "ward"
+      },
+      {
+        "text": "from",
+        "lemma": "from"
+      },
+      {
+        "text": "undue",
+        "wnsn": "1",
+        "lemma": "undue"
+      },
+      {
+        "text": "costs",
+        "wnsn": "1",
+        "lemma": "cost"
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "its",
+        "lemma": "its"
+      },
+      {
+        "text": "appointed",
+        "wnsn": "1",
+        "lemma": "appointed"
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "elected",
+        "wnsn": "1",
+        "lemma": "elected"
+      },
+      {
+        "text": "servants",
+        "wnsn": "1",
+        "lemma": "servant"
+      },
+      {
+        "text": "from",
+        "lemma": "from"
+      },
+      {
+        "text": "unmeritorious",
+        "wnsn": "1",
+        "lemma": "unmeritorious"
+      },
+      {
+        "text": "criticisms",
+        "wnsn": "1",
+        "lemma": "criticism"
+      },
+      {
+        "text": "''",
+        "lemma": "''"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "jury",
+        "wnsn": "1",
+        "lemma": "jury"
+      },
+      {
+        "text": "said",
+        "wnsn": "2",
+        "lemma": "say"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "Regarding Atlanta 's new million dollar airport , the jury recommended `` that when the new management takes charge Jan. 1 the airport be operated in a manner that will eliminate political influences '' .",
+    "tokens": [
+      {
+        "text": "Regarding",
+        "wnsn": "3",
+        "lemma": "regard"
+      },
+      {
+        "text": "Atlanta",
+        "wnsn": "1",
+        "lemma": "atlanta"
+      },
+      {
+        "text": "'s",
+        "lemma": "'s"
+      },
+      {
+        "text": "new",
+        "wnsn": "1",
+        "lemma": "new"
+      },
+      {
+        "text": "million",
+        "wnsn": "1",
+        "lemma": "million"
+      },
+      {
+        "text": "dollar",
+        "wnsn": "1",
+        "lemma": "dollar"
+      },
+      {
+        "text": "airport",
+        "wnsn": "1",
+        "lemma": "airport"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "jury",
+        "wnsn": "1",
+        "lemma": "jury"
+      },
+      {
+        "text": "recommended",
+        "wnsn": "1",
+        "lemma": "recommend"
+      },
+      {
+        "text": "``",
+        "lemma": "``"
+      },
+      {
+        "text": "that",
+        "lemma": "that"
+      },
+      {
+        "text": "when",
+        "lemma": "when"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "new",
+        "wnsn": "1",
+        "lemma": "new"
+      },
+      {
+        "text": "management",
+        "wnsn": "2",
+        "lemma": "management"
+      },
+      {
+        "text": "takes charge",
+        "wnsn": "1",
+        "lemma": "take_charge"
+      },
+      {
+        "text": "Jan.",
+        "wnsn": "1",
+        "lemma": "jan"
+      },
+      {
+        "text": "1",
+        "lemma": "1"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "airport",
+        "wnsn": "1",
+        "lemma": "airport"
+      },
+      {
+        "text": "be",
+        "lemma": "be"
+      },
+      {
+        "text": "operated",
+        "wnsn": "1",
+        "lemma": "operate"
+      },
+      {
+        "text": "in",
+        "lemma": "in"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "manner",
+        "wnsn": "1",
+        "lemma": "manner"
+      },
+      {
+        "text": "that",
+        "lemma": "that"
+      },
+      {
+        "text": "will",
+        "lemma": "will"
+      },
+      {
+        "text": "eliminate",
+        "wnsn": "1",
+        "lemma": "eliminate"
+      },
+      {
+        "text": "political",
+        "wnsn": "1",
+        "lemma": "political"
+      },
+      {
+        "text": "influences",
+        "wnsn": "1",
+        "lemma": "influence"
+      },
+      {
+        "text": "''",
+        "lemma": "''"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "The jury did not elaborate , but it added that `` there should be periodic surveillance of the pricing practices of the concessionaires for the purpose of keeping the prices reasonable '' .",
+    "tokens": [
+      {
+        "text": "The",
+        "lemma": "The"
+      },
+      {
+        "text": "jury",
+        "wnsn": "1",
+        "lemma": "jury"
+      },
+      {
+        "text": "did",
+        "lemma": "did"
+      },
+      {
+        "text": "not",
+        "wnsn": "1",
+        "lemma": "not"
+      },
+      {
+        "text": "elaborate",
+        "wnsn": "1",
+        "lemma": "elaborate"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "but",
+        "lemma": "but"
+      },
+      {
+        "text": "it",
+        "lemma": "it"
+      },
+      {
+        "text": "added",
+        "wnsn": "2",
+        "lemma": "add"
+      },
+      {
+        "text": "that",
+        "lemma": "that"
+      },
+      {
+        "text": "``",
+        "lemma": "``"
+      },
+      {
+        "text": "there",
+        "lemma": "there"
+      },
+      {
+        "text": "should",
+        "lemma": "should"
+      },
+      {
+        "text": "be",
+        "wnsn": "1",
+        "lemma": "be"
+      },
+      {
+        "text": "periodic",
+        "wnsn": "1",
+        "lemma": "periodic"
+      },
+      {
+        "text": "surveillance",
+        "wnsn": "1",
+        "lemma": "surveillance"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "pricing",
+        "wnsn": "1",
+        "lemma": "pricing"
+      },
+      {
+        "text": "practices",
+        "wnsn": "1",
+        "lemma": "practice"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "concessionaires",
+        "wnsn": "1",
+        "lemma": "concessionaire"
+      },
+      {
+        "text": "for",
+        "lemma": "for"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "purpose",
+        "wnsn": "1",
+        "lemma": "purpose"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "keeping",
+        "wnsn": "1",
+        "lemma": "keep"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "prices",
+        "wnsn": "2",
+        "lemma": "price"
+      },
+      {
+        "text": "reasonable",
+        "wnsn": "2",
+        "lemma": "reasonable"
+      },
+      {
+        "text": "''",
+        "lemma": "''"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "On other matters , the jury recommended that :",
+    "tokens": [
+      {
+        "text": "On",
+        "lemma": "On"
+      },
+      {
+        "text": "other",
+        "wnsn": "1",
+        "lemma": "other"
+      },
+      {
+        "text": "matters",
+        "wnsn": "2",
+        "lemma": "matter"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "jury",
+        "wnsn": "1",
+        "lemma": "jury"
+      },
+      {
+        "text": "recommended",
+        "wnsn": "1",
+        "lemma": "recommend"
+      },
+      {
+        "text": "that",
+        "lemma": "that"
+      },
+      {
+        "text": ":",
+        "lemma": ":"
+      }
+    ]
+  },
+  {
+    "text": "Four additional deputies be employed at the Fulton County Jail and `` a doctor , medical intern or extern be employed for night and weekend duty at the jail '' .",
+    "tokens": [
+      {
+        "text": "Four",
+        "wnsn": "1",
+        "lemma": "four"
+      },
+      {
+        "text": "additional",
+        "wnsn": "0",
+        "lemma": "additional"
+      },
+      {
+        "text": "deputies",
+        "wnsn": "2",
+        "lemma": "deputy"
+      },
+      {
+        "text": "be",
+        "lemma": "be"
+      },
+      {
+        "text": "employed",
+        "wnsn": "2",
+        "lemma": "employ"
+      },
+      {
+        "text": "at",
+        "lemma": "at"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "Fulton County Jail",
+        "wnsn": "1",
+        "lemma": "group"
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "``",
+        "lemma": "``"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "doctor",
+        "wnsn": "1",
+        "lemma": "doctor"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "medical intern",
+        "wnsn": "1",
+        "lemma": "medical_intern"
+      },
+      {
+        "text": "or",
+        "lemma": "or"
+      },
+      {
+        "text": "extern",
+        "wnsn": "1",
+        "lemma": "extern"
+      },
+      {
+        "text": "be",
+        "lemma": "be"
+      },
+      {
+        "text": "employed",
+        "wnsn": "2",
+        "lemma": "employ"
+      },
+      {
+        "text": "for",
+        "lemma": "for"
+      },
+      {
+        "text": "night",
+        "wnsn": "1",
+        "lemma": "night"
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "weekend",
+        "wnsn": "1",
+        "lemma": "weekend"
+      },
+      {
+        "text": "duty",
+        "wnsn": "2",
+        "lemma": "duty"
+      },
+      {
+        "text": "at",
+        "lemma": "at"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "jail",
+        "wnsn": "1",
+        "lemma": "jail"
+      },
+      {
+        "text": "''",
+        "lemma": "''"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "Fulton legislators `` work with city officials to pass enabling legislation that will permit the establishment of a fair and equitable '' pension plan for city employes .",
+    "tokens": [
+      {
+        "text": "Fulton",
+        "wnsn": "1",
+        "lemma": "location"
+      },
+      {
+        "text": "legislators",
+        "wnsn": "1",
+        "lemma": "legislator"
+      },
+      {
+        "text": "``",
+        "lemma": "``"
+      },
+      {
+        "text": "work",
+        "wnsn": "0",
+        "lemma": "work"
+      },
+      {
+        "text": "with",
+        "lemma": "with"
+      },
+      {
+        "text": "city",
+        "wnsn": "2",
+        "lemma": "city"
+      },
+      {
+        "text": "officials",
+        "wnsn": "1",
+        "lemma": "official"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "pass",
+        "wnsn": "3",
+        "lemma": "pass"
+      },
+      {
+        "text": "enabling legislation",
+        "wnsn": "1",
+        "lemma": "enabling_legislation"
+      },
+      {
+        "text": "that",
+        "lemma": "that"
+      },
+      {
+        "text": "will",
+        "lemma": "will"
+      },
+      {
+        "text": "permit",
+        "wnsn": "1",
+        "lemma": "permit"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "establishment",
+        "wnsn": "1",
+        "lemma": "establishment"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "fair",
+        "wnsn": "0",
+        "lemma": "fair"
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "equitable",
+        "wnsn": "1",
+        "lemma": "equitable"
+      },
+      {
+        "text": "''",
+        "lemma": "''"
+      },
+      {
+        "text": "pension",
+        "wnsn": "1",
+        "lemma": "pension"
+      },
+      {
+        "text": "plan",
+        "wnsn": "1",
+        "lemma": "plan"
+      },
+      {
+        "text": "for",
+        "lemma": "for"
+      },
+      {
+        "text": "city",
+        "wnsn": "2",
+        "lemma": "city"
+      },
+      {
+        "text": "employes",
+        "wnsn": "1",
+        "lemma": "employee"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "The jury praised the administration and operation of the Atlanta Police Department , the Fulton Tax Commissioner 's Office , the Bellwood and Alpharetta prison farms , Grady Hospital and the Fulton Health Department .",
+    "tokens": [
+      {
+        "text": "The",
+        "lemma": "The"
+      },
+      {
+        "text": "jury",
+        "wnsn": "1",
+        "lemma": "jury"
+      },
+      {
+        "text": "praised",
+        "wnsn": "1",
+        "lemma": "praise"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "administration",
+        "wnsn": "1",
+        "lemma": "administration"
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "operation",
+        "wnsn": "1",
+        "lemma": "operation"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "Atlanta",
+        "wnsn": "1",
+        "lemma": "atlanta"
+      },
+      {
+        "text": "Police Department",
+        "wnsn": "1",
+        "lemma": "police_department"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "Fulton Tax Commissioner 's Office",
+        "wnsn": "1",
+        "lemma": "group"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "Bellwood",
+        "wnsn": "1",
+        "lemma": "location"
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "Alpharetta",
+        "wnsn": "1",
+        "lemma": "location"
+      },
+      {
+        "text": "prison farms",
+        "wnsn": "1",
+        "lemma": "prison_farm"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "Grady Hospital",
+        "wnsn": "1",
+        "lemma": "group"
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "Fulton Health Department",
+        "wnsn": "1",
+        "lemma": "group"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "Mayor William B. Hartsfield filed suit for divorce from his wife , Pearl Williams Hartsfield , in Fulton Superior Court Friday .",
+    "tokens": [
+      {
+        "text": "Mayor William B. Hartsfield",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": "filed",
+        "wnsn": "1",
+        "lemma": "file"
+      },
+      {
+        "text": "suit",
+        "wnsn": "2",
+        "lemma": "suit"
+      },
+      {
+        "text": "for",
+        "lemma": "for"
+      },
+      {
+        "text": "divorce",
+        "wnsn": "1",
+        "lemma": "divorce"
+      },
+      {
+        "text": "from",
+        "lemma": "from"
+      },
+      {
+        "text": "his",
+        "lemma": "his"
+      },
+      {
+        "text": "wife",
+        "wnsn": "1",
+        "lemma": "wife"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "Pearl Williams Hartsfield",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "in",
+        "lemma": "in"
+      },
+      {
+        "text": "Fulton Superior Court",
+        "wnsn": "1",
+        "lemma": "group"
+      },
+      {
+        "text": "Friday",
+        "wnsn": "1",
+        "lemma": "friday"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "His petition charged mental cruelty .",
+    "tokens": [
+      {
+        "text": "His",
+        "lemma": "His"
+      },
+      {
+        "text": "petition",
+        "wnsn": "1",
+        "lemma": "petition"
+      },
+      {
+        "text": "charged",
+        "wnsn": "6",
+        "lemma": "charge"
+      },
+      {
+        "text": "mental",
+        "wnsn": "2",
+        "lemma": "mental"
+      },
+      {
+        "text": "cruelty",
+        "wnsn": "2",
+        "lemma": "cruelty"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "The couple was married Aug. 2 , 1913 .",
+    "tokens": [
+      {
+        "text": "The",
+        "lemma": "The"
+      },
+      {
+        "text": "couple",
+        "wnsn": "2",
+        "lemma": "couple"
+      },
+      {
+        "text": "was",
+        "lemma": "was"
+      },
+      {
+        "text": "married",
+        "wnsn": "1",
+        "lemma": "marry"
+      },
+      {
+        "text": "Aug.",
+        "wnsn": "1",
+        "lemma": "aug"
+      },
+      {
+        "text": "2",
+        "lemma": "2"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "1913",
+        "lemma": "1913"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "They have a son , William Berry Jr. , and a daughter , Mrs. J. M. Cheshire of Griffin .",
+    "tokens": [
+      {
+        "text": "They",
+        "lemma": "They"
+      },
+      {
+        "text": "have",
+        "wnsn": "1",
+        "lemma": "have"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "son",
+        "wnsn": "1",
+        "lemma": "son"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "William Berry Jr.",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "daughter",
+        "wnsn": "1",
+        "lemma": "daughter"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "Mrs. J. M. Cheshire",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "Griffin",
+        "wnsn": "1",
+        "lemma": "location"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "Attorneys for the mayor said that an amicable property settlement has been agreed upon .",
+    "tokens": [
+      {
+        "text": "Attorneys",
+        "wnsn": "1",
+        "lemma": "attorney"
+      },
+      {
+        "text": "for",
+        "lemma": "for"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "mayor",
+        "wnsn": "1",
+        "lemma": "mayor"
+      },
+      {
+        "text": "said",
+        "wnsn": "2",
+        "lemma": "say"
+      },
+      {
+        "text": "that",
+        "lemma": "that"
+      },
+      {
+        "text": "an",
+        "lemma": "an"
+      },
+      {
+        "text": "amicable",
+        "wnsn": "1",
+        "lemma": "amicable"
+      },
+      {
+        "text": "property settlement",
+        "wnsn": "1",
+        "lemma": "property_settlement"
+      },
+      {
+        "text": "has",
+        "lemma": "has"
+      },
+      {
+        "text": "been",
+        "lemma": "been"
+      },
+      {
+        "text": "agreed upon",
+        "wnsn": "1",
+        "lemma": "agreed_upon"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "The petition listed the mayor 's occupation as `` attorney '' and his age as 71 .",
+    "tokens": [
+      {
+        "text": "The",
+        "lemma": "The"
+      },
+      {
+        "text": "petition",
+        "wnsn": "1",
+        "lemma": "petition"
+      },
+      {
+        "text": "listed",
+        "wnsn": "1",
+        "lemma": "list"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "mayor",
+        "wnsn": "1",
+        "lemma": "mayor"
+      },
+      {
+        "text": "'s",
+        "lemma": "'s"
+      },
+      {
+        "text": "occupation",
+        "wnsn": "1",
+        "lemma": "occupation"
+      },
+      {
+        "text": "as",
+        "lemma": "as"
+      },
+      {
+        "text": "``",
+        "lemma": "``"
+      },
+      {
+        "text": "attorney",
+        "wnsn": "1",
+        "lemma": "attorney"
+      },
+      {
+        "text": "''",
+        "lemma": "''"
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "his",
+        "lemma": "his"
+      },
+      {
+        "text": "age",
+        "wnsn": "1",
+        "lemma": "age"
+      },
+      {
+        "text": "as",
+        "lemma": "as"
+      },
+      {
+        "text": "71",
+        "lemma": "71"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "It listed his wife 's age as 74 and place of birth as Opelika , Ala. .",
+    "tokens": [
+      {
+        "text": "It",
+        "lemma": "It"
+      },
+      {
+        "text": "listed",
+        "wnsn": "1",
+        "lemma": "list"
+      },
+      {
+        "text": "his",
+        "lemma": "his"
+      },
+      {
+        "text": "wife",
+        "wnsn": "1",
+        "lemma": "wife"
+      },
+      {
+        "text": "'s",
+        "lemma": "'s"
+      },
+      {
+        "text": "age",
+        "wnsn": "1",
+        "lemma": "age"
+      },
+      {
+        "text": "as",
+        "lemma": "as"
+      },
+      {
+        "text": "74",
+        "lemma": "74"
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "place of birth",
+        "wnsn": "1",
+        "lemma": "place_of_birth"
+      },
+      {
+        "text": "as",
+        "lemma": "as"
+      },
+      {
+        "text": "Opelika , Ala.",
+        "wnsn": "1",
+        "lemma": "location"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "The petition said that the couple has not lived together as man and wife for more than a year .",
+    "tokens": [
+      {
+        "text": "The",
+        "lemma": "The"
+      },
+      {
+        "text": "petition",
+        "wnsn": "1",
+        "lemma": "petition"
+      },
+      {
+        "text": "said",
+        "wnsn": "2",
+        "lemma": "say"
+      },
+      {
+        "text": "that",
+        "lemma": "that"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "couple",
+        "wnsn": "2",
+        "lemma": "couple"
+      },
+      {
+        "text": "has",
+        "lemma": "has"
+      },
+      {
+        "text": "not",
+        "wnsn": "1",
+        "lemma": "not"
+      },
+      {
+        "text": "lived",
+        "wnsn": "1",
+        "lemma": "live"
+      },
+      {
+        "text": "together",
+        "wnsn": "3",
+        "lemma": "together"
+      },
+      {
+        "text": "as",
+        "lemma": "as"
+      },
+      {
+        "text": "man and wife",
+        "wnsn": "1",
+        "lemma": "man_and_wife"
+      },
+      {
+        "text": "for",
+        "lemma": "for"
+      },
+      {
+        "text": "more",
+        "wnsn": "2",
+        "lemma": "more"
+      },
+      {
+        "text": "than",
+        "lemma": "than"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "year",
+        "wnsn": "1",
+        "lemma": "year"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "The Hartsfield home is at 637 E. Pelham Rd. NE .",
+    "tokens": [
+      {
+        "text": "The",
+        "lemma": "The"
+      },
+      {
+        "text": "Hartsfield",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": "home",
+        "wnsn": "2",
+        "lemma": "home"
+      },
+      {
+        "text": "is",
+        "wnsn": "3",
+        "lemma": "be"
+      },
+      {
+        "text": "at",
+        "lemma": "at"
+      },
+      {
+        "text": "637",
+        "lemma": "637"
+      },
+      {
+        "text": "E. Pelham Rd. NE",
+        "wnsn": "1",
+        "lemma": "location"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "Henry L. Bowden was listed on the petition as the mayor 's attorney .",
+    "tokens": [
+      {
+        "text": "Henry L. Bowden",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": "was",
+        "lemma": "was"
+      },
+      {
+        "text": "listed",
+        "wnsn": "1",
+        "lemma": "list"
+      },
+      {
+        "text": "on",
+        "lemma": "on"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "petition",
+        "wnsn": "1",
+        "lemma": "petition"
+      },
+      {
+        "text": "as",
+        "lemma": "as"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "mayor",
+        "wnsn": "1",
+        "lemma": "mayor"
+      },
+      {
+        "text": "'s",
+        "lemma": "'s"
+      },
+      {
+        "text": "attorney",
+        "wnsn": "1",
+        "lemma": "attorney"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "Hartsfield has been mayor of Atlanta , with exception of one brief interlude , since 1937 .",
+    "tokens": [
+      {
+        "text": "Hartsfield",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": "has",
+        "lemma": "has"
+      },
+      {
+        "text": "been",
+        "wnsn": "8",
+        "lemma": "be"
+      },
+      {
+        "text": "mayor",
+        "wnsn": "1",
+        "lemma": "mayor"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "Atlanta",
+        "wnsn": "1",
+        "lemma": "atlanta"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "with",
+        "lemma": "with"
+      },
+      {
+        "text": "exception",
+        "wnsn": "1",
+        "lemma": "exception"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "one",
+        "wnsn": "1",
+        "lemma": "one"
+      },
+      {
+        "text": "brief",
+        "wnsn": "1",
+        "lemma": "brief"
+      },
+      {
+        "text": "interlude",
+        "wnsn": "1",
+        "lemma": "interlude"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "since",
+        "lemma": "since"
+      },
+      {
+        "text": "1937",
+        "lemma": "1937"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "His political career goes back to his election to city council in 1923 .",
+    "tokens": [
+      {
+        "text": "His",
+        "lemma": "His"
+      },
+      {
+        "text": "political",
+        "wnsn": "3",
+        "lemma": "political"
+      },
+      {
+        "text": "career",
+        "wnsn": "1",
+        "lemma": "career"
+      },
+      {
+        "text": "goes back",
+        "wnsn": "1",
+        "lemma": "go_back"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "his",
+        "lemma": "his"
+      },
+      {
+        "text": "election",
+        "wnsn": "1",
+        "lemma": "election"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "city council",
+        "wnsn": "1",
+        "lemma": "city_council"
+      },
+      {
+        "text": "in",
+        "lemma": "in"
+      },
+      {
+        "text": "1923",
+        "lemma": "1923"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "The mayor 's present term of office expires Jan. 1 .",
+    "tokens": [
+      {
+        "text": "The",
+        "lemma": "The"
+      },
+      {
+        "text": "mayor",
+        "wnsn": "1",
+        "lemma": "mayor"
+      },
+      {
+        "text": "'s",
+        "lemma": "'s"
+      },
+      {
+        "text": "present",
+        "wnsn": "1",
+        "lemma": "present"
+      },
+      {
+        "text": "term of office",
+        "wnsn": "1",
+        "lemma": "term_of_office"
+      },
+      {
+        "text": "expires",
+        "wnsn": "1",
+        "lemma": "expire"
+      },
+      {
+        "text": "Jan.",
+        "wnsn": "1",
+        "lemma": "jan"
+      },
+      {
+        "text": "1",
+        "lemma": "1"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "He will be succeeded by Ivan Allen Jr. , who became a candidate in the Sept. 13 primary after Mayor Hartsfield announced that he would not run for reelection .",
+    "tokens": [
+      {
+        "text": "He",
+        "lemma": "He"
+      },
+      {
+        "text": "will",
+        "lemma": "will"
+      },
+      {
+        "text": "be",
+        "lemma": "be"
+      },
+      {
+        "text": "succeeded",
+        "wnsn": "2",
+        "lemma": "succeed"
+      },
+      {
+        "text": "by",
+        "lemma": "by"
+      },
+      {
+        "text": "Ivan Allen Jr.",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "who",
+        "lemma": "who"
+      },
+      {
+        "text": "became",
+        "wnsn": "2",
+        "lemma": "become"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "candidate",
+        "wnsn": "1",
+        "lemma": "candidate"
+      },
+      {
+        "text": "in",
+        "lemma": "in"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "Sept.",
+        "wnsn": "1",
+        "lemma": "sept"
+      },
+      {
+        "text": "13",
+        "lemma": "13"
+      },
+      {
+        "text": "primary",
+        "wnsn": "1",
+        "lemma": "primary"
+      },
+      {
+        "text": "after",
+        "lemma": "after"
+      },
+      {
+        "text": "Mayor Hartsfield",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": "announced",
+        "wnsn": "1",
+        "lemma": "announce"
+      },
+      {
+        "text": "that",
+        "lemma": "that"
+      },
+      {
+        "text": "he",
+        "lemma": "he"
+      },
+      {
+        "text": "would",
+        "lemma": "would"
+      },
+      {
+        "text": "not",
+        "wnsn": "1",
+        "lemma": "not"
+      },
+      {
+        "text": "run",
+        "wnsn": "9",
+        "lemma": "run"
+      },
+      {
+        "text": "for",
+        "lemma": "for"
+      },
+      {
+        "text": "reelection",
+        "wnsn": "1",
+        "lemma": "reelection"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "Georgia Republicans are getting strong encouragement to enter a candidate in the 1962 governor 's race , a top official said Wednesday .",
+    "tokens": [
+      {
+        "text": "Georgia",
+        "wnsn": "1",
+        "lemma": "georgia"
+      },
+      {
+        "text": "Republicans",
+        "wnsn": "1",
+        "lemma": "republican"
+      },
+      {
+        "text": "are",
+        "lemma": "are"
+      },
+      {
+        "text": "getting",
+        "wnsn": "4",
+        "lemma": "get"
+      },
+      {
+        "text": "strong",
+        "wnsn": "3",
+        "lemma": "strong"
+      },
+      {
+        "text": "encouragement",
+        "wnsn": "2",
+        "lemma": "encouragement"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "enter",
+        "wnsn": "3",
+        "lemma": "enter"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "candidate",
+        "wnsn": "1",
+        "lemma": "candidate"
+      },
+      {
+        "text": "in",
+        "lemma": "in"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "1962",
+        "lemma": "1962"
+      },
+      {
+        "text": "governor 's race",
+        "wnsn": "1",
+        "lemma": "governor's_race"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "top",
+        "wnsn": "0",
+        "lemma": "top"
+      },
+      {
+        "text": "official",
+        "wnsn": "1",
+        "lemma": "official"
+      },
+      {
+        "text": "said",
+        "wnsn": "1",
+        "lemma": "say"
+      },
+      {
+        "text": "Wednesday",
+        "wnsn": "1",
+        "lemma": "wednesday"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "Robert Snodgrass , state GOP chairman , said a meeting held Tuesday night in Blue Ridge brought enthusiastic responses from the audience .",
+    "tokens": [
+      {
+        "text": "Robert Snodgrass",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "state",
+        "wnsn": "3",
+        "lemma": "state"
+      },
+      {
+        "text": "GOP",
+        "wnsn": "1",
+        "lemma": "gop"
+      },
+      {
+        "text": "chairman",
+        "wnsn": "1",
+        "lemma": "chairman"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "said",
+        "wnsn": "1",
+        "lemma": "say"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "meeting",
+        "wnsn": "1",
+        "lemma": "meeting"
+      },
+      {
+        "text": "held",
+        "wnsn": "3",
+        "lemma": "hold"
+      },
+      {
+        "text": "Tuesday",
+        "wnsn": "1",
+        "lemma": "tuesday"
+      },
+      {
+        "text": "night",
+        "wnsn": "1",
+        "lemma": "night"
+      },
+      {
+        "text": "in",
+        "lemma": "in"
+      },
+      {
+        "text": "Blue Ridge",
+        "wnsn": "1",
+        "lemma": "location"
+      },
+      {
+        "text": "brought",
+        "wnsn": "3",
+        "lemma": "bring"
+      },
+      {
+        "text": "enthusiastic",
+        "wnsn": "1",
+        "lemma": "enthusiastic"
+      },
+      {
+        "text": "responses",
+        "wnsn": "4",
+        "lemma": "response"
+      },
+      {
+        "text": "from",
+        "lemma": "from"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "audience",
+        "wnsn": "1",
+        "lemma": "audience"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "State Party Chairman James W. Dorsey added that enthusiasm was picking up for a state rally to be held Sept. 8 in Savannah at which newly elected Texas Sen. John Tower will be the featured speaker .",
+    "tokens": [
+      {
+        "text": "State Party Chairman James W. Dorsey",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": "added",
+        "wnsn": "2",
+        "lemma": "add"
+      },
+      {
+        "text": "that",
+        "lemma": "that"
+      },
+      {
+        "text": "enthusiasm",
+        "wnsn": "3",
+        "lemma": "enthusiasm"
+      },
+      {
+        "text": "was",
+        "lemma": "was"
+      },
+      {
+        "text": "picking up",
+        "wnsn": "1",
+        "lemma": "pick_up"
+      },
+      {
+        "text": "for",
+        "lemma": "for"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "state",
+        "wnsn": "1",
+        "lemma": "state"
+      },
+      {
+        "text": "rally",
+        "wnsn": "1",
+        "lemma": "rally"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "be",
+        "lemma": "be"
+      },
+      {
+        "text": "held",
+        "wnsn": "3",
+        "lemma": "hold"
+      },
+      {
+        "text": "Sept.",
+        "wnsn": "1",
+        "lemma": "sept"
+      },
+      {
+        "text": "8",
+        "lemma": "8"
+      },
+      {
+        "text": "in",
+        "lemma": "in"
+      },
+      {
+        "text": "Savannah",
+        "wnsn": "1",
+        "lemma": "savannah"
+      },
+      {
+        "text": "at",
+        "lemma": "at"
+      },
+      {
+        "text": "which",
+        "lemma": "which"
+      },
+      {
+        "text": "newly",
+        "wnsn": "1",
+        "lemma": "newly"
+      },
+      {
+        "text": "elected",
+        "wnsn": "1",
+        "lemma": "elected"
+      },
+      {
+        "text": "Texas",
+        "wnsn": "1",
+        "lemma": "texas"
+      },
+      {
+        "text": "Sen. John Tower",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": "will",
+        "lemma": "will"
+      },
+      {
+        "text": "be",
+        "wnsn": "2",
+        "lemma": "be"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "featured",
+        "wnsn": "1",
+        "lemma": "featured"
+      },
+      {
+        "text": "speaker",
+        "wnsn": "1",
+        "lemma": "speaker"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "In the Blue Ridge meeting , the audience was warned that entering a candidate for governor would force it to take petitions out into voting precincts to obtain the signatures of registered voters .",
+    "tokens": [
+      {
+        "text": "In",
+        "lemma": "In"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "Blue Ridge",
+        "wnsn": "1",
+        "lemma": "location"
+      },
+      {
+        "text": "meeting",
+        "wnsn": "1",
+        "lemma": "meeting"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "audience",
+        "wnsn": "1",
+        "lemma": "audience"
+      },
+      {
+        "text": "was",
+        "lemma": "was"
+      },
+      {
+        "text": "warned",
+        "wnsn": "1",
+        "lemma": "warn"
+      },
+      {
+        "text": "that",
+        "lemma": "that"
+      },
+      {
+        "text": "entering",
+        "wnsn": "3",
+        "lemma": "enter"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "candidate",
+        "wnsn": "1",
+        "lemma": "candidate"
+      },
+      {
+        "text": "for",
+        "lemma": "for"
+      },
+      {
+        "text": "governor",
+        "wnsn": "1",
+        "lemma": "governor"
+      },
+      {
+        "text": "would",
+        "lemma": "would"
+      },
+      {
+        "text": "force",
+        "wnsn": "1",
+        "lemma": "force"
+      },
+      {
+        "text": "it",
+        "lemma": "it"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "take",
+        "wnsn": "7",
+        "lemma": "take"
+      },
+      {
+        "text": "petitions",
+        "wnsn": "1",
+        "lemma": "petition"
+      },
+      {
+        "text": "out",
+        "wnsn": "0",
+        "lemma": "out"
+      },
+      {
+        "text": "into",
+        "lemma": "into"
+      },
+      {
+        "text": "voting precincts",
+        "wnsn": "1",
+        "lemma": "voting_precinct"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "obtain",
+        "wnsn": "1",
+        "lemma": "obtain"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "signatures",
+        "wnsn": "1",
+        "lemma": "signature"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "registered",
+        "wnsn": "3",
+        "lemma": "register"
+      },
+      {
+        "text": "voters",
+        "wnsn": "1",
+        "lemma": "voter"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "Despite the warning , there was a unanimous vote to enter a candidate , according to Republicans who attended .",
+    "tokens": [
+      {
+        "text": "Despite",
+        "lemma": "Despite"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "warning",
+        "wnsn": "2",
+        "lemma": "warning"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "there",
+        "lemma": "there"
+      },
+      {
+        "text": "was",
+        "wnsn": "5",
+        "lemma": "be"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "unanimous",
+        "wnsn": "1",
+        "lemma": "unanimous"
+      },
+      {
+        "text": "vote",
+        "wnsn": "1",
+        "lemma": "vote"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "enter",
+        "wnsn": "3",
+        "lemma": "enter"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "candidate",
+        "wnsn": "1",
+        "lemma": "candidate"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "according to",
+        "lemma": "according_to"
+      },
+      {
+        "text": "Republicans",
+        "wnsn": "1",
+        "lemma": "republican"
+      },
+      {
+        "text": "who",
+        "lemma": "who"
+      },
+      {
+        "text": "attended",
+        "wnsn": "1",
+        "lemma": "attend"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "When the crowd was asked whether it wanted to wait one more term to make the race , it voted no - and there were no dissents .",
+    "tokens": [
+      {
+        "text": "When",
+        "lemma": "When"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "crowd",
+        "wnsn": "1",
+        "lemma": "crowd"
+      },
+      {
+        "text": "was",
+        "lemma": "was"
+      },
+      {
+        "text": "asked",
+        "wnsn": "1",
+        "lemma": "ask"
+      },
+      {
+        "text": "whether",
+        "lemma": "whether"
+      },
+      {
+        "text": "it",
+        "lemma": "it"
+      },
+      {
+        "text": "wanted",
+        "wnsn": "1",
+        "lemma": "want"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "wait",
+        "wnsn": "2",
+        "lemma": "wait"
+      },
+      {
+        "text": "one",
+        "wnsn": "1",
+        "lemma": "one"
+      },
+      {
+        "text": "more",
+        "wnsn": "0",
+        "lemma": "more"
+      },
+      {
+        "text": "term",
+        "wnsn": "2",
+        "lemma": "term"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "make",
+        "wnsn": "5",
+        "lemma": "make"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "race",
+        "wnsn": "1",
+        "lemma": "race"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "it",
+        "lemma": "it"
+      },
+      {
+        "text": "voted",
+        "wnsn": "3",
+        "lemma": "vote"
+      },
+      {
+        "text": "no",
+        "wnsn": "1",
+        "lemma": "no"
+      },
+      {
+        "text": "-",
+        "lemma": "-"
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "there",
+        "lemma": "there"
+      },
+      {
+        "text": "were",
+        "wnsn": "5",
+        "lemma": "be"
+      },
+      {
+        "text": "no",
+        "lemma": "no"
+      },
+      {
+        "text": "dissents",
+        "wnsn": "2",
+        "lemma": "dissent"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "The largest hurdle the Republicans would have to face is a state law which says that before making a first race , one of two alternative courses must be taken :",
+    "tokens": [
+      {
+        "text": "The",
+        "lemma": "The"
+      },
+      {
+        "text": "largest",
+        "wnsn": "0",
+        "lemma": "largest"
+      },
+      {
+        "text": "hurdle",
+        "wnsn": "1",
+        "lemma": "hurdle"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "Republicans",
+        "wnsn": "1",
+        "lemma": "republican"
+      },
+      {
+        "text": "would",
+        "lemma": "would"
+      },
+      {
+        "text": "have",
+        "lemma": "have"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "face",
+        "wnsn": "2",
+        "lemma": "face"
+      },
+      {
+        "text": "is",
+        "wnsn": "2",
+        "lemma": "be"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "state",
+        "wnsn": "4",
+        "lemma": "state"
+      },
+      {
+        "text": "law",
+        "wnsn": "2",
+        "lemma": "law"
+      },
+      {
+        "text": "which",
+        "lemma": "which"
+      },
+      {
+        "text": "says",
+        "wnsn": "2",
+        "lemma": "say"
+      },
+      {
+        "text": "that",
+        "lemma": "that"
+      },
+      {
+        "text": "before",
+        "lemma": "before"
+      },
+      {
+        "text": "making",
+        "wnsn": "1",
+        "lemma": "make"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "first",
+        "wnsn": "1",
+        "lemma": "first"
+      },
+      {
+        "text": "race",
+        "wnsn": "1",
+        "lemma": "race"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "one",
+        "wnsn": "1",
+        "lemma": "one"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "two",
+        "wnsn": "1",
+        "lemma": "two"
+      },
+      {
+        "text": "alternative",
+        "wnsn": "2",
+        "lemma": "alternative"
+      },
+      {
+        "text": "courses",
+        "wnsn": "3",
+        "lemma": "course"
+      },
+      {
+        "text": "must",
+        "lemma": "must"
+      },
+      {
+        "text": "be",
+        "lemma": "be"
+      },
+      {
+        "text": "taken",
+        "wnsn": "2",
+        "lemma": "take"
+      },
+      {
+        "text": ":",
+        "lemma": ":"
+      }
+    ]
+  },
+  {
+    "text": "Five per cent of the voters in each county must sign petitions requesting that the Republicans be allowed to place names of candidates on the general election ballot , or The Republicans must hold a primary under the county unit system - a system which the party opposes in its platform .",
+    "tokens": [
+      {
+        "text": "Five",
+        "wnsn": "1",
+        "lemma": "five"
+      },
+      {
+        "text": "per cent",
+        "wnsn": "1",
+        "lemma": "percent"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "voters",
+        "wnsn": "1",
+        "lemma": "voter"
+      },
+      {
+        "text": "in",
+        "lemma": "in"
+      },
+      {
+        "text": "each",
+        "wnsn": "1",
+        "lemma": "each"
+      },
+      {
+        "text": "county",
+        "wnsn": "1",
+        "lemma": "county"
+      },
+      {
+        "text": "must",
+        "lemma": "must"
+      },
+      {
+        "text": "sign",
+        "wnsn": "3",
+        "lemma": "sign"
+      },
+      {
+        "text": "petitions",
+        "wnsn": "1",
+        "lemma": "petition"
+      },
+      {
+        "text": "requesting",
+        "wnsn": "2",
+        "lemma": "request"
+      },
+      {
+        "text": "that",
+        "lemma": "that"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "Republicans",
+        "wnsn": "1",
+        "lemma": "republican"
+      },
+      {
+        "text": "be",
+        "lemma": "be"
+      },
+      {
+        "text": "allowed",
+        "wnsn": "1",
+        "lemma": "allow"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "place",
+        "wnsn": "1",
+        "lemma": "place"
+      },
+      {
+        "text": "names",
+        "wnsn": "1",
+        "lemma": "name"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "candidates",
+        "wnsn": "1",
+        "lemma": "candidate"
+      },
+      {
+        "text": "on",
+        "lemma": "on"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "general election",
+        "wnsn": "1",
+        "lemma": "general_election"
+      },
+      {
+        "text": "ballot",
+        "wnsn": "2",
+        "lemma": "ballot"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "or",
+        "lemma": "or"
+      },
+      {
+        "text": "The",
+        "lemma": "The"
+      },
+      {
+        "text": "Republicans",
+        "wnsn": "1",
+        "lemma": "republican"
+      },
+      {
+        "text": "must",
+        "lemma": "must"
+      },
+      {
+        "text": "hold",
+        "wnsn": "3",
+        "lemma": "hold"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "primary",
+        "wnsn": "1",
+        "lemma": "primary"
+      },
+      {
+        "text": "under",
+        "lemma": "under"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "county",
+        "wnsn": "1",
+        "lemma": "county"
+      },
+      {
+        "text": "unit",
+        "wnsn": "3",
+        "lemma": "unit"
+      },
+      {
+        "text": "system",
+        "wnsn": "4",
+        "lemma": "system"
+      },
+      {
+        "text": "-",
+        "lemma": "-"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "system",
+        "wnsn": "4",
+        "lemma": "system"
+      },
+      {
+        "text": "which",
+        "lemma": "which"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "party",
+        "wnsn": "1",
+        "lemma": "party"
+      },
+      {
+        "text": "opposes",
+        "wnsn": "1",
+        "lemma": "oppose"
+      },
+      {
+        "text": "in",
+        "lemma": "in"
+      },
+      {
+        "text": "its",
+        "lemma": "its"
+      },
+      {
+        "text": "platform",
+        "wnsn": "2",
+        "lemma": "platform"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "Sam Caldwell , State Highway Department public relations director , resigned Tuesday to work for Lt. Gov. Garland Byrd 's campaign .",
+    "tokens": [
+      {
+        "text": "Sam Caldwell",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "State Highway Department",
+        "wnsn": "1",
+        "lemma": "group"
+      },
+      {
+        "text": "public relations",
+        "wnsn": "1",
+        "lemma": "public_relations"
+      },
+      {
+        "text": "director",
+        "wnsn": "1",
+        "lemma": "director"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "resigned",
+        "wnsn": "1",
+        "lemma": "resign"
+      },
+      {
+        "text": "Tuesday",
+        "wnsn": "1",
+        "lemma": "tuesday"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "work",
+        "wnsn": "2",
+        "lemma": "work"
+      },
+      {
+        "text": "for",
+        "lemma": "for"
+      },
+      {
+        "text": "Lt. Gov. Garland Byrd",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": "'s",
+        "lemma": "'s"
+      },
+      {
+        "text": "campaign",
+        "wnsn": "1",
+        "lemma": "campaign"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "Caldwell 's resignation had been expected for some time .",
+    "tokens": [
+      {
+        "text": "Caldwell",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": "'s",
+        "lemma": "'s"
+      },
+      {
+        "text": "resignation",
+        "wnsn": "3",
+        "lemma": "resignation"
+      },
+      {
+        "text": "had",
+        "lemma": "had"
+      },
+      {
+        "text": "been",
+        "lemma": "been"
+      },
+      {
+        "text": "expected",
+        "wnsn": "1",
+        "lemma": "expect"
+      },
+      {
+        "text": "for",
+        "lemma": "for"
+      },
+      {
+        "text": "some",
+        "wnsn": "0",
+        "lemma": "some"
+      },
+      {
+        "text": "time",
+        "wnsn": "3",
+        "lemma": "time"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "He will be succeeded by Rob Ledford of Gainesville , who has been an assistant more than three years .",
+    "tokens": [
+      {
+        "text": "He",
+        "lemma": "He"
+      },
+      {
+        "text": "will",
+        "lemma": "will"
+      },
+      {
+        "text": "be",
+        "lemma": "be"
+      },
+      {
+        "text": "succeeded",
+        "wnsn": "2",
+        "lemma": "succeed"
+      },
+      {
+        "text": "by",
+        "lemma": "by"
+      },
+      {
+        "text": "Rob Ledford",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "Gainesville",
+        "wnsn": "1",
+        "lemma": "location"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "who",
+        "lemma": "who"
+      },
+      {
+        "text": "has",
+        "lemma": "has"
+      },
+      {
+        "text": "been",
+        "wnsn": "7",
+        "lemma": "be"
+      },
+      {
+        "text": "an",
+        "lemma": "an"
+      },
+      {
+        "text": "assistant",
+        "wnsn": "1",
+        "lemma": "assistant"
+      },
+      {
+        "text": "more",
+        "wnsn": "2",
+        "lemma": "more"
+      },
+      {
+        "text": "than",
+        "lemma": "than"
+      },
+      {
+        "text": "three",
+        "wnsn": "1",
+        "lemma": "three"
+      },
+      {
+        "text": "years",
+        "wnsn": "1",
+        "lemma": "year"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "When the gubernatorial campaign starts , Caldwell is expected to become a campaign coordinator for Byrd .",
+    "tokens": [
+      {
+        "text": "When",
+        "lemma": "When"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "gubernatorial",
+        "wnsn": "1",
+        "lemma": "gubernatorial"
+      },
+      {
+        "text": "campaign",
+        "wnsn": "1",
+        "lemma": "campaign"
+      },
+      {
+        "text": "starts",
+        "wnsn": "1",
+        "lemma": "start"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "Caldwell",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": "is",
+        "lemma": "is"
+      },
+      {
+        "text": "expected",
+        "wnsn": "1",
+        "lemma": "expect"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "become",
+        "wnsn": "2",
+        "lemma": "become"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "campaign",
+        "wnsn": "1",
+        "lemma": "campaign"
+      },
+      {
+        "text": "coordinator",
+        "wnsn": "1",
+        "lemma": "coordinator"
+      },
+      {
+        "text": "for",
+        "lemma": "for"
+      },
+      {
+        "text": "Byrd",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "The Georgia Legislature will wind up its 1961 session Monday and head for home - where some of the highway bond money it approved will follow shortly .",
+    "tokens": [
+      {
+        "text": "The",
+        "lemma": "The"
+      },
+      {
+        "text": "Georgia Legislature",
+        "wnsn": "1",
+        "lemma": "group"
+      },
+      {
+        "text": "will",
+        "lemma": "will"
+      },
+      {
+        "text": "wind up",
+        "wnsn": "0",
+        "lemma": "wind_up"
+      },
+      {
+        "text": "its",
+        "lemma": "its"
+      },
+      {
+        "text": "1961",
+        "lemma": "1961"
+      },
+      {
+        "text": "session",
+        "wnsn": "2",
+        "lemma": "session"
+      },
+      {
+        "text": "Monday",
+        "wnsn": "1",
+        "lemma": "monday"
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "head",
+        "wnsn": "1",
+        "lemma": "head"
+      },
+      {
+        "text": "for",
+        "lemma": "for"
+      },
+      {
+        "text": "home",
+        "wnsn": "1",
+        "lemma": "home"
+      },
+      {
+        "text": "-",
+        "lemma": "-"
+      },
+      {
+        "text": "where",
+        "lemma": "where"
+      },
+      {
+        "text": "some",
+        "lemma": "some"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "highway",
+        "wnsn": "1",
+        "lemma": "highway"
+      },
+      {
+        "text": "bond",
+        "wnsn": "2",
+        "lemma": "bond"
+      },
+      {
+        "text": "money",
+        "wnsn": "1",
+        "lemma": "money"
+      },
+      {
+        "text": "it",
+        "lemma": "it"
+      },
+      {
+        "text": "approved",
+        "wnsn": "1",
+        "lemma": "approve"
+      },
+      {
+        "text": "will",
+        "lemma": "will"
+      },
+      {
+        "text": "follow",
+        "wnsn": "1",
+        "lemma": "follow"
+      },
+      {
+        "text": "shortly",
+        "wnsn": "2",
+        "lemma": "shortly"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "Before adjournment Monday afternoon , the Senate is expected to approve a study of the number of legislators allotted to rural and urban areas to determine what adjustments should be made .",
+    "tokens": [
+      {
+        "text": "Before",
+        "lemma": "Before"
+      },
+      {
+        "text": "adjournment",
+        "wnsn": "1",
+        "lemma": "adjournment"
+      },
+      {
+        "text": "Monday",
+        "wnsn": "1",
+        "lemma": "monday"
+      },
+      {
+        "text": "afternoon",
+        "wnsn": "1",
+        "lemma": "afternoon"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "Senate",
+        "wnsn": "1",
+        "lemma": "senate"
+      },
+      {
+        "text": "is",
+        "lemma": "is"
+      },
+      {
+        "text": "expected",
+        "wnsn": "1",
+        "lemma": "expect"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "approve",
+        "wnsn": "1",
+        "lemma": "approve"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "study",
+        "wnsn": "1",
+        "lemma": "study"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "number",
+        "wnsn": "2",
+        "lemma": "number"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "legislators",
+        "wnsn": "1",
+        "lemma": "legislator"
+      },
+      {
+        "text": "allotted",
+        "wnsn": "2",
+        "lemma": "allot"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "rural",
+        "wnsn": "1",
+        "lemma": "rural_area"
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "urban areas",
+        "wnsn": "1",
+        "lemma": "urban_area"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "determine",
+        "wnsn": "1",
+        "lemma": "determine"
+      },
+      {
+        "text": "what",
+        "lemma": "what"
+      },
+      {
+        "text": "adjustments",
+        "wnsn": "1",
+        "lemma": "adjustment"
+      },
+      {
+        "text": "should",
+        "lemma": "should"
+      },
+      {
+        "text": "be",
+        "lemma": "be"
+      },
+      {
+        "text": "made",
+        "wnsn": "1",
+        "lemma": "make"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "Gov. Vandiver is expected to make the traditional visit to both chambers as they work toward adjournment .",
+    "tokens": [
+      {
+        "text": "Gov. Vandiver",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": "is",
+        "lemma": "is"
+      },
+      {
+        "text": "expected",
+        "wnsn": "1",
+        "lemma": "expect"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "make",
+        "wnsn": "1",
+        "lemma": "make"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "traditional",
+        "wnsn": "1",
+        "lemma": "traditional"
+      },
+      {
+        "text": "visit",
+        "wnsn": "1",
+        "lemma": "visit"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "both",
+        "lemma": "both"
+      },
+      {
+        "text": "chambers",
+        "wnsn": "3",
+        "lemma": "chamber"
+      },
+      {
+        "text": "as",
+        "lemma": "as"
+      },
+      {
+        "text": "they",
+        "lemma": "they"
+      },
+      {
+        "text": "work",
+        "wnsn": "1",
+        "lemma": "work"
+      },
+      {
+        "text": "toward",
+        "lemma": "toward"
+      },
+      {
+        "text": "adjournment",
+        "wnsn": "1",
+        "lemma": "adjournment"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "Vandiver likely will mention the $ 100 million highway bond issue approved earlier in the session as his first priority item .",
+    "tokens": [
+      {
+        "text": "Vandiver",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": "likely",
+        "wnsn": "1",
+        "lemma": "likely"
+      },
+      {
+        "text": "will",
+        "lemma": "will"
+      },
+      {
+        "text": "mention",
+        "wnsn": "1",
+        "lemma": "mention"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "$",
+        "lemma": "$"
+      },
+      {
+        "text": "100",
+        "wnsn": "1",
+        "lemma": "100"
+      },
+      {
+        "text": "million",
+        "wnsn": "1",
+        "lemma": "million"
+      },
+      {
+        "text": "highway",
+        "wnsn": "1",
+        "lemma": "highway"
+      },
+      {
+        "text": "bond",
+        "wnsn": "2",
+        "lemma": "bond"
+      },
+      {
+        "text": "issue",
+        "wnsn": "1",
+        "lemma": "issue"
+      },
+      {
+        "text": "approved",
+        "wnsn": "1",
+        "lemma": "approve"
+      },
+      {
+        "text": "earlier",
+        "wnsn": "0",
+        "lemma": "earlier"
+      },
+      {
+        "text": "in",
+        "lemma": "in"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "session",
+        "wnsn": "2",
+        "lemma": "session"
+      },
+      {
+        "text": "as",
+        "lemma": "as"
+      },
+      {
+        "text": "his",
+        "lemma": "his"
+      },
+      {
+        "text": "first",
+        "wnsn": "1",
+        "lemma": "first"
+      },
+      {
+        "text": "priority",
+        "wnsn": "1",
+        "lemma": "priority"
+      },
+      {
+        "text": "item",
+        "wnsn": "4",
+        "lemma": "item"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "Meanwhile , it was learned the State Highway Department is very near being ready to issue the first $ 30 million worth of highway reconstruction bonds .",
+    "tokens": [
+      {
+        "text": "Meanwhile",
+        "wnsn": "1",
+        "lemma": "meanwhile"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "it",
+        "lemma": "it"
+      },
+      {
+        "text": "was",
+        "lemma": "was"
+      },
+      {
+        "text": "learned",
+        "wnsn": "2",
+        "lemma": "learn"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "State Highway Department",
+        "wnsn": "1",
+        "lemma": "group"
+      },
+      {
+        "text": "is",
+        "wnsn": "1",
+        "lemma": "be"
+      },
+      {
+        "text": "very",
+        "wnsn": "1",
+        "lemma": "very"
+      },
+      {
+        "text": "near",
+        "wnsn": "2",
+        "lemma": "near"
+      },
+      {
+        "text": "being",
+        "wnsn": "1",
+        "lemma": "be"
+      },
+      {
+        "text": "ready",
+        "wnsn": "1",
+        "lemma": "ready"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "issue",
+        "wnsn": "1",
+        "lemma": "issue"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "first",
+        "wnsn": "1",
+        "lemma": "first"
+      },
+      {
+        "text": "$",
+        "lemma": "$"
+      },
+      {
+        "text": "30",
+        "wnsn": "1",
+        "lemma": "30"
+      },
+      {
+        "text": "million",
+        "wnsn": "1",
+        "lemma": "million"
+      },
+      {
+        "text": "worth",
+        "wnsn": "1",
+        "lemma": "worth"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "highway",
+        "wnsn": "1",
+        "lemma": "highway"
+      },
+      {
+        "text": "reconstruction",
+        "wnsn": "2",
+        "lemma": "reconstruction"
+      },
+      {
+        "text": "bonds",
+        "wnsn": "2",
+        "lemma": "bond"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "The bond issue will go to the state courts for a friendly test suit to test the validity of the act , and then the sales will begin and contracts let for repair work on some of Georgia 's most heavily traveled highways .",
+    "tokens": [
+      {
+        "text": "The",
+        "lemma": "The"
+      },
+      {
+        "text": "bond",
+        "wnsn": "2",
+        "lemma": "bond"
+      },
+      {
+        "text": "issue",
+        "wnsn": "1",
+        "lemma": "issue"
+      },
+      {
+        "text": "will",
+        "lemma": "will"
+      },
+      {
+        "text": "go",
+        "wnsn": "1",
+        "lemma": "go"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "state",
+        "wnsn": "4",
+        "lemma": "state"
+      },
+      {
+        "text": "courts",
+        "wnsn": "1",
+        "lemma": "court"
+      },
+      {
+        "text": "for",
+        "lemma": "for"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "friendly",
+        "wnsn": "2",
+        "lemma": "friendly"
+      },
+      {
+        "text": "test suit",
+        "wnsn": "1",
+        "lemma": "test_suit"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "test",
+        "wnsn": "1",
+        "lemma": "test"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "validity",
+        "wnsn": "2",
+        "lemma": "validity"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "act",
+        "wnsn": "1",
+        "lemma": "act"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "and then",
+        "wnsn": "1",
+        "lemma": "and_then"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "sales",
+        "wnsn": "1",
+        "lemma": "sale"
+      },
+      {
+        "text": "will",
+        "lemma": "will"
+      },
+      {
+        "text": "begin",
+        "wnsn": "1",
+        "lemma": "begin"
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "contracts",
+        "wnsn": "2",
+        "lemma": "contract"
+      },
+      {
+        "text": "let",
+        "wnsn": "1",
+        "lemma": "let"
+      },
+      {
+        "text": "for",
+        "lemma": "for"
+      },
+      {
+        "text": "repair",
+        "wnsn": "1",
+        "lemma": "repair"
+      },
+      {
+        "text": "work",
+        "wnsn": "1",
+        "lemma": "work"
+      },
+      {
+        "text": "on",
+        "lemma": "on"
+      },
+      {
+        "text": "some",
+        "lemma": "some"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "Georgia",
+        "wnsn": "1",
+        "lemma": "georgia"
+      },
+      {
+        "text": "'s",
+        "lemma": "'s"
+      },
+      {
+        "text": "most",
+        "wnsn": "1",
+        "lemma": "most"
+      },
+      {
+        "text": "heavily",
+        "wnsn": "1",
+        "lemma": "heavily"
+      },
+      {
+        "text": "traveled",
+        "wnsn": "1",
+        "lemma": "traveled"
+      },
+      {
+        "text": "highways",
+        "wnsn": "1",
+        "lemma": "highway"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "A Highway Department source said there also is a plan there to issue some $ 3 million to $ 4 million worth of Rural Roads Authority bonds for rural road construction work .",
+    "tokens": [
+      {
+        "text": "A",
+        "lemma": "A"
+      },
+      {
+        "text": "Highway Department",
+        "wnsn": "1",
+        "lemma": "group"
+      },
+      {
+        "text": "source",
+        "wnsn": "5",
+        "lemma": "source"
+      },
+      {
+        "text": "said",
+        "wnsn": "2",
+        "lemma": "say"
+      },
+      {
+        "text": "there",
+        "lemma": "there"
+      },
+      {
+        "text": "also",
+        "wnsn": "1",
+        "lemma": "also"
+      },
+      {
+        "text": "is",
+        "wnsn": "4",
+        "lemma": "be"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "plan",
+        "wnsn": "1",
+        "lemma": "plan"
+      },
+      {
+        "text": "there",
+        "wnsn": "1",
+        "lemma": "there"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "issue",
+        "wnsn": "5",
+        "lemma": "issue"
+      },
+      {
+        "text": "some",
+        "wnsn": "1",
+        "lemma": "some"
+      },
+      {
+        "text": "$",
+        "lemma": "$"
+      },
+      {
+        "text": "3",
+        "wnsn": "1",
+        "lemma": "3"
+      },
+      {
+        "text": "million",
+        "wnsn": "1",
+        "lemma": "million"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "$",
+        "lemma": "$"
+      },
+      {
+        "text": "4",
+        "wnsn": "1",
+        "lemma": "4"
+      },
+      {
+        "text": "million",
+        "wnsn": "1",
+        "lemma": "million"
+      },
+      {
+        "text": "worth",
+        "wnsn": "2",
+        "lemma": "worth"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "Rural Roads Authority",
+        "wnsn": "1",
+        "lemma": "group"
+      },
+      {
+        "text": "bonds",
+        "wnsn": "2",
+        "lemma": "bond"
+      },
+      {
+        "text": "for",
+        "lemma": "for"
+      },
+      {
+        "text": "rural",
+        "wnsn": "1",
+        "lemma": "rural"
+      },
+      {
+        "text": "road",
+        "wnsn": "1",
+        "lemma": "road"
+      },
+      {
+        "text": "construction",
+        "wnsn": "1",
+        "lemma": "construction"
+      },
+      {
+        "text": "work",
+        "wnsn": "1",
+        "lemma": "work"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "The department apparently intends to make the Rural Roads Authority a revolving fund under which new bonds would be issued every time a portion of the old ones are paid off by tax authorities .",
+    "tokens": [
+      {
+        "text": "The",
+        "lemma": "The"
+      },
+      {
+        "text": "department",
+        "wnsn": "1",
+        "lemma": "department"
+      },
+      {
+        "text": "apparently",
+        "wnsn": "1",
+        "lemma": "apparently"
+      },
+      {
+        "text": "intends",
+        "wnsn": "1",
+        "lemma": "intend"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "make",
+        "wnsn": "2",
+        "lemma": "make"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "Rural Roads Authority",
+        "wnsn": "1",
+        "lemma": "group"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "revolving fund",
+        "wnsn": "1",
+        "lemma": "revolving_fund"
+      },
+      {
+        "text": "under",
+        "lemma": "under"
+      },
+      {
+        "text": "which",
+        "lemma": "which"
+      },
+      {
+        "text": "new",
+        "wnsn": "1",
+        "lemma": "new"
+      },
+      {
+        "text": "bonds",
+        "wnsn": "2",
+        "lemma": "bond"
+      },
+      {
+        "text": "would",
+        "lemma": "would"
+      },
+      {
+        "text": "be",
+        "lemma": "be"
+      },
+      {
+        "text": "issued",
+        "wnsn": "1",
+        "lemma": "issue"
+      },
+      {
+        "text": "every",
+        "wnsn": "1",
+        "lemma": "every"
+      },
+      {
+        "text": "time",
+        "wnsn": "1",
+        "lemma": "time"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "portion",
+        "wnsn": "3",
+        "lemma": "portion"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "old",
+        "wnsn": "2",
+        "lemma": "old"
+      },
+      {
+        "text": "ones",
+        "lemma": "ones"
+      },
+      {
+        "text": "are",
+        "lemma": "are"
+      },
+      {
+        "text": "paid off",
+        "wnsn": "3",
+        "lemma": "pay_off"
+      },
+      {
+        "text": "by",
+        "lemma": "by"
+      },
+      {
+        "text": "tax",
+        "wnsn": "1",
+        "lemma": "tax"
+      },
+      {
+        "text": "authorities",
+        "wnsn": "1",
+        "lemma": "authorities"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "Vandiver opened his race for governor in 1958 with a battle in the Legislature against the issuance of $ 50 million worth of additional rural roads bonds proposed by then Gov. Marvin Griffin .",
+    "tokens": [
+      {
+        "text": "Vandiver",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": "opened",
+        "wnsn": "2",
+        "lemma": "open"
+      },
+      {
+        "text": "his",
+        "lemma": "his"
+      },
+      {
+        "text": "race",
+        "wnsn": "1",
+        "lemma": "race"
+      },
+      {
+        "text": "for",
+        "lemma": "for"
+      },
+      {
+        "text": "governor",
+        "wnsn": "1",
+        "lemma": "governor"
+      },
+      {
+        "text": "in",
+        "lemma": "in"
+      },
+      {
+        "text": "1958",
+        "lemma": "1958"
+      },
+      {
+        "text": "with",
+        "lemma": "with"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "battle",
+        "wnsn": "2",
+        "lemma": "battle"
+      },
+      {
+        "text": "in",
+        "lemma": "in"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "Legislature",
+        "wnsn": "1",
+        "lemma": "legislature"
+      },
+      {
+        "text": "against",
+        "lemma": "against"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "issuance",
+        "wnsn": "1",
+        "lemma": "issuance"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "$",
+        "lemma": "$"
+      },
+      {
+        "text": "50",
+        "wnsn": "1",
+        "lemma": "50"
+      },
+      {
+        "text": "million",
+        "wnsn": "1",
+        "lemma": "million"
+      },
+      {
+        "text": "worth",
+        "wnsn": "1",
+        "lemma": "worth"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "additional",
+        "wnsn": "0",
+        "lemma": "additional"
+      },
+      {
+        "text": "rural",
+        "wnsn": "2",
+        "lemma": "rural"
+      },
+      {
+        "text": "roads",
+        "wnsn": "1",
+        "lemma": "road"
+      },
+      {
+        "text": "bonds",
+        "wnsn": "2",
+        "lemma": "bond"
+      },
+      {
+        "text": "proposed",
+        "wnsn": "4",
+        "lemma": "propose"
+      },
+      {
+        "text": "by",
+        "lemma": "by"
+      },
+      {
+        "text": "then",
+        "wnsn": "1",
+        "lemma": "then"
+      },
+      {
+        "text": "Gov. Marvin Griffin",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "The Highway Department source told The Constitution , however , that Vandiver has not been consulted yet about the plans to issue the new rural roads bonds .",
+    "tokens": [
+      {
+        "text": "The",
+        "lemma": "The"
+      },
+      {
+        "text": "Highway Department",
+        "wnsn": "1",
+        "lemma": "group"
+      },
+      {
+        "text": "source",
+        "wnsn": "5",
+        "lemma": "source"
+      },
+      {
+        "text": "told",
+        "wnsn": "2",
+        "lemma": "tell"
+      },
+      {
+        "text": "The Constitution",
+        "lemma": "The_Constitution"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "however",
+        "wnsn": "1",
+        "lemma": "however"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "that",
+        "lemma": "that"
+      },
+      {
+        "text": "Vandiver",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": "has",
+        "lemma": "has"
+      },
+      {
+        "text": "not",
+        "wnsn": "1",
+        "lemma": "not"
+      },
+      {
+        "text": "been",
+        "lemma": "been"
+      },
+      {
+        "text": "consulted",
+        "wnsn": "1",
+        "lemma": "consult"
+      },
+      {
+        "text": "yet",
+        "wnsn": "2",
+        "lemma": "yet"
+      },
+      {
+        "text": "about",
+        "lemma": "about"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "plans",
+        "wnsn": "1",
+        "lemma": "plan"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "issue",
+        "wnsn": "1",
+        "lemma": "issue"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "new",
+        "wnsn": "1",
+        "lemma": "new"
+      },
+      {
+        "text": "rural",
+        "wnsn": "1",
+        "lemma": "rural"
+      },
+      {
+        "text": "roads",
+        "wnsn": "1",
+        "lemma": "road"
+      },
+      {
+        "text": "bonds",
+        "wnsn": "2",
+        "lemma": "bond"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "Schley County Rep. B. D. Pelham will offer a resolution Monday in the House to rescind the body 's action of Friday in voting itself a $ 10 per day increase in expense allowances .",
+    "tokens": [
+      {
+        "text": "Schley County Rep. B. D. Pelham",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": "will",
+        "lemma": "will"
+      },
+      {
+        "text": "offer",
+        "wnsn": "2",
+        "lemma": "offer"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "resolution",
+        "wnsn": "1",
+        "lemma": "resolution"
+      },
+      {
+        "text": "Monday",
+        "wnsn": "1",
+        "lemma": "monday"
+      },
+      {
+        "text": "in",
+        "lemma": "in"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "House",
+        "wnsn": "1",
+        "lemma": "group"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "rescind",
+        "wnsn": "1",
+        "lemma": "rescind"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "body",
+        "wnsn": "2",
+        "lemma": "body"
+      },
+      {
+        "text": "'s",
+        "lemma": "'s"
+      },
+      {
+        "text": "action",
+        "wnsn": "1",
+        "lemma": "action"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "Friday",
+        "wnsn": "1",
+        "lemma": "friday"
+      },
+      {
+        "text": "in",
+        "lemma": "in"
+      },
+      {
+        "text": "voting",
+        "wnsn": "1",
+        "lemma": "voting"
+      },
+      {
+        "text": "itself",
+        "lemma": "itself"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "$",
+        "lemma": "$"
+      },
+      {
+        "text": "10",
+        "wnsn": "1",
+        "lemma": "10"
+      },
+      {
+        "text": "per",
+        "lemma": "per"
+      },
+      {
+        "text": "day",
+        "wnsn": "1",
+        "lemma": "day"
+      },
+      {
+        "text": "increase",
+        "wnsn": "2",
+        "lemma": "increase"
+      },
+      {
+        "text": "in",
+        "lemma": "in"
+      },
+      {
+        "text": "expense",
+        "wnsn": "1",
+        "lemma": "expense"
+      },
+      {
+        "text": "allowances",
+        "wnsn": "2",
+        "lemma": "allowance"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "Pelham said Sunday night there was research being done on whether the `` quickie '' vote on the increase can be repealed outright or whether notice would have to first be given that reconsideration of the action would be sought .",
+    "tokens": [
+      {
+        "text": "Pelham",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": "said",
+        "wnsn": "1",
+        "lemma": "say"
+      },
+      {
+        "text": "Sunday",
+        "wnsn": "1",
+        "lemma": "sunday"
+      },
+      {
+        "text": "night",
+        "wnsn": "1",
+        "lemma": "night"
+      },
+      {
+        "text": "there",
+        "lemma": "there"
+      },
+      {
+        "text": "was",
+        "wnsn": "2",
+        "lemma": "be"
+      },
+      {
+        "text": "research",
+        "wnsn": "1",
+        "lemma": "research"
+      },
+      {
+        "text": "being",
+        "lemma": "being"
+      },
+      {
+        "text": "done",
+        "wnsn": "1",
+        "lemma": "do"
+      },
+      {
+        "text": "on",
+        "lemma": "on"
+      },
+      {
+        "text": "whether",
+        "lemma": "whether"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "``",
+        "lemma": "``"
+      },
+      {
+        "text": "quickie",
+        "wnsn": "1",
+        "lemma": "quickie"
+      },
+      {
+        "text": "''",
+        "lemma": "''"
+      },
+      {
+        "text": "vote",
+        "wnsn": "1",
+        "lemma": "vote"
+      },
+      {
+        "text": "on",
+        "lemma": "on"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "increase",
+        "wnsn": "2",
+        "lemma": "increase"
+      },
+      {
+        "text": "can",
+        "lemma": "can"
+      },
+      {
+        "text": "be",
+        "lemma": "be"
+      },
+      {
+        "text": "repealed",
+        "wnsn": "1",
+        "lemma": "repeal"
+      },
+      {
+        "text": "outright",
+        "wnsn": "1",
+        "lemma": "outright"
+      },
+      {
+        "text": "or",
+        "lemma": "or"
+      },
+      {
+        "text": "whether",
+        "lemma": "whether"
+      },
+      {
+        "text": "notice",
+        "wnsn": "3",
+        "lemma": "notice"
+      },
+      {
+        "text": "would",
+        "lemma": "would"
+      },
+      {
+        "text": "have",
+        "lemma": "have"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "first",
+        "wnsn": "1",
+        "lemma": "first"
+      },
+      {
+        "text": "be",
+        "lemma": "be"
+      },
+      {
+        "text": "given",
+        "wnsn": "5",
+        "lemma": "give"
+      },
+      {
+        "text": "that",
+        "lemma": "that"
+      },
+      {
+        "text": "reconsideration",
+        "wnsn": "1",
+        "lemma": "reconsideration"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "action",
+        "wnsn": "1",
+        "lemma": "action"
+      },
+      {
+        "text": "would",
+        "lemma": "would"
+      },
+      {
+        "text": "be",
+        "lemma": "be"
+      },
+      {
+        "text": "sought",
+        "wnsn": "2",
+        "lemma": "seek"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "While emphasizing that technical details were not fully worked out , Pelham said his resolution would seek to set aside the privilege resolution which the House voted through 87 - 31 .",
+    "tokens": [
+      {
+        "text": "While",
+        "lemma": "While"
+      },
+      {
+        "text": "emphasizing",
+        "wnsn": "1",
+        "lemma": "emphasize"
+      },
+      {
+        "text": "that",
+        "lemma": "that"
+      },
+      {
+        "text": "technical",
+        "wnsn": "1",
+        "lemma": "technical"
+      },
+      {
+        "text": "details",
+        "wnsn": "1",
+        "lemma": "detail"
+      },
+      {
+        "text": "were",
+        "lemma": "were"
+      },
+      {
+        "text": "not",
+        "wnsn": "1",
+        "lemma": "not"
+      },
+      {
+        "text": "fully",
+        "wnsn": "1",
+        "lemma": "fully"
+      },
+      {
+        "text": "worked out",
+        "wnsn": "1",
+        "lemma": "work_out"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "Pelham",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": "said",
+        "wnsn": "1",
+        "lemma": "say"
+      },
+      {
+        "text": "his",
+        "lemma": "his"
+      },
+      {
+        "text": "resolution",
+        "wnsn": "1",
+        "lemma": "resolution"
+      },
+      {
+        "text": "would",
+        "lemma": "would"
+      },
+      {
+        "text": "seek",
+        "wnsn": "2",
+        "lemma": "seek"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "set aside",
+        "wnsn": "1",
+        "lemma": "set_aside"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "privilege",
+        "wnsn": "2",
+        "lemma": "privilege"
+      },
+      {
+        "text": "resolution",
+        "wnsn": "1",
+        "lemma": "resolution"
+      },
+      {
+        "text": "which",
+        "lemma": "which"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "House",
+        "wnsn": "1",
+        "lemma": "group"
+      },
+      {
+        "text": "voted",
+        "wnsn": "1",
+        "lemma": "vote"
+      },
+      {
+        "text": "through",
+        "lemma": "through"
+      },
+      {
+        "text": "87",
+        "lemma": "87"
+      },
+      {
+        "text": "-",
+        "lemma": "-"
+      },
+      {
+        "text": "31",
+        "lemma": "31"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "A similar resolution passed in the Senate by a vote of 29 - 5 .",
+    "tokens": [
+      {
+        "text": "A",
+        "lemma": "A"
+      },
+      {
+        "text": "similar",
+        "wnsn": "1",
+        "lemma": "similar"
+      },
+      {
+        "text": "resolution",
+        "wnsn": "1",
+        "lemma": "resolution"
+      },
+      {
+        "text": "passed",
+        "wnsn": "9",
+        "lemma": "pass"
+      },
+      {
+        "text": "in",
+        "lemma": "in"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "Senate",
+        "wnsn": "1",
+        "lemma": "senate"
+      },
+      {
+        "text": "by",
+        "lemma": "by"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "vote",
+        "wnsn": "1",
+        "lemma": "vote"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "29",
+        "wnsn": "1",
+        "lemma": "29"
+      },
+      {
+        "text": "-",
+        "lemma": "-"
+      },
+      {
+        "text": "5",
+        "wnsn": "1",
+        "lemma": "5"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "As of Sunday night , there was no word of a resolution being offered there to rescind the action .",
+    "tokens": [
+      {
+        "text": "As",
+        "lemma": "As"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "Sunday",
+        "wnsn": "1",
+        "lemma": "sunday"
+      },
+      {
+        "text": "night",
+        "wnsn": "1",
+        "lemma": "night"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "there",
+        "lemma": "there"
+      },
+      {
+        "text": "was",
+        "wnsn": "4",
+        "lemma": "be"
+      },
+      {
+        "text": "no",
+        "lemma": "no"
+      },
+      {
+        "text": "word",
+        "wnsn": "2",
+        "lemma": "word"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "resolution",
+        "wnsn": "1",
+        "lemma": "resolution"
+      },
+      {
+        "text": "being",
+        "lemma": "being"
+      },
+      {
+        "text": "offered",
+        "wnsn": "2",
+        "lemma": "offer"
+      },
+      {
+        "text": "there",
+        "wnsn": "1",
+        "lemma": "there"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "rescind",
+        "wnsn": "1",
+        "lemma": "rescind"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "action",
+        "wnsn": "1",
+        "lemma": "action"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "Pelham pointed out that Georgia voters last November rejected a constitutional amendment to allow legislators to vote on pay raises for future Legislature sessions .",
+    "tokens": [
+      {
+        "text": "Pelham",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": "pointed out",
+        "wnsn": "1",
+        "lemma": "point_out"
+      },
+      {
+        "text": "that",
+        "lemma": "that"
+      },
+      {
+        "text": "Georgia",
+        "wnsn": "1",
+        "lemma": "georgia"
+      },
+      {
+        "text": "voters",
+        "wnsn": "1",
+        "lemma": "voter"
+      },
+      {
+        "text": "last",
+        "wnsn": "1",
+        "lemma": "last"
+      },
+      {
+        "text": "November",
+        "wnsn": "1",
+        "lemma": "november"
+      },
+      {
+        "text": "rejected",
+        "wnsn": "2",
+        "lemma": "reject"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "constitutional",
+        "wnsn": "0",
+        "lemma": "constitutional"
+      },
+      {
+        "text": "amendment",
+        "wnsn": "1",
+        "lemma": "amendment"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "allow",
+        "wnsn": "2",
+        "lemma": "allow"
+      },
+      {
+        "text": "legislators",
+        "wnsn": "1",
+        "lemma": "legislator"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "vote",
+        "wnsn": "1",
+        "lemma": "vote"
+      },
+      {
+        "text": "on",
+        "lemma": "on"
+      },
+      {
+        "text": "pay",
+        "wnsn": "1",
+        "lemma": "pay"
+      },
+      {
+        "text": "raises",
+        "wnsn": "1",
+        "lemma": "raise"
+      },
+      {
+        "text": "for",
+        "lemma": "for"
+      },
+      {
+        "text": "future",
+        "wnsn": "1",
+        "lemma": "future"
+      },
+      {
+        "text": "Legislature",
+        "wnsn": "1",
+        "lemma": "legislature"
+      },
+      {
+        "text": "sessions",
+        "wnsn": "2",
+        "lemma": "session"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "A veteran Jackson County legislator will ask the Georgia House Monday to back federal aid to education , something it has consistently opposed in the past .",
+    "tokens": [
+      {
+        "text": "A",
+        "lemma": "A"
+      },
+      {
+        "text": "veteran",
+        "wnsn": "1",
+        "lemma": "veteran"
+      },
+      {
+        "text": "Jackson County",
+        "wnsn": "1",
+        "lemma": "location"
+      },
+      {
+        "text": "legislator",
+        "wnsn": "1",
+        "lemma": "legislator"
+      },
+      {
+        "text": "will",
+        "lemma": "will"
+      },
+      {
+        "text": "ask",
+        "wnsn": "2",
+        "lemma": "ask"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "Georgia House",
+        "wnsn": "1",
+        "lemma": "group"
+      },
+      {
+        "text": "Monday",
+        "wnsn": "1",
+        "lemma": "monday"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "back",
+        "wnsn": "1",
+        "lemma": "back"
+      },
+      {
+        "text": "federal",
+        "wnsn": "1",
+        "lemma": "federal"
+      },
+      {
+        "text": "aid",
+        "wnsn": "3",
+        "lemma": "aid"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "education",
+        "wnsn": "4",
+        "lemma": "education"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "something",
+        "lemma": "something"
+      },
+      {
+        "text": "it",
+        "lemma": "it"
+      },
+      {
+        "text": "has",
+        "lemma": "has"
+      },
+      {
+        "text": "consistently",
+        "wnsn": "1",
+        "lemma": "consistently"
+      },
+      {
+        "text": "opposed",
+        "wnsn": "1",
+        "lemma": "oppose"
+      },
+      {
+        "text": "in",
+        "lemma": "in"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "past",
+        "wnsn": "1",
+        "lemma": "past"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "Rep. Mac Barber of Commerce is asking the House in a privilege resolution to `` endorse increased federal support for public education , provided that such funds be received and expended '' as state funds .",
+    "tokens": [
+      {
+        "text": "Rep. Mac Barber",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "Commerce",
+        "wnsn": "1",
+        "lemma": "group"
+      },
+      {
+        "text": "is",
+        "lemma": "is"
+      },
+      {
+        "text": "asking",
+        "wnsn": "2",
+        "lemma": "ask"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "House",
+        "wnsn": "1",
+        "lemma": "group"
+      },
+      {
+        "text": "in",
+        "lemma": "in"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "privilege",
+        "wnsn": "1",
+        "lemma": "privilege"
+      },
+      {
+        "text": "resolution",
+        "wnsn": "1",
+        "lemma": "resolution"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "``",
+        "lemma": "``"
+      },
+      {
+        "text": "endorse",
+        "wnsn": "1",
+        "lemma": "endorse"
+      },
+      {
+        "text": "increased",
+        "wnsn": "1",
+        "lemma": "increased"
+      },
+      {
+        "text": "federal",
+        "wnsn": "2",
+        "lemma": "federal"
+      },
+      {
+        "text": "support",
+        "wnsn": "1",
+        "lemma": "support"
+      },
+      {
+        "text": "for",
+        "lemma": "for"
+      },
+      {
+        "text": "public",
+        "wnsn": "1",
+        "lemma": "public"
+      },
+      {
+        "text": "education",
+        "wnsn": "4",
+        "lemma": "education"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "provided that",
+        "lemma": "provided_that"
+      },
+      {
+        "text": "such",
+        "wnsn": "0",
+        "lemma": "such"
+      },
+      {
+        "text": "funds",
+        "wnsn": "1",
+        "lemma": "fund"
+      },
+      {
+        "text": "be",
+        "lemma": "be"
+      },
+      {
+        "text": "received",
+        "wnsn": "1",
+        "lemma": "receive"
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "expended",
+        "wnsn": "2",
+        "lemma": "expend"
+      },
+      {
+        "text": "''",
+        "lemma": "''"
+      },
+      {
+        "text": "as",
+        "lemma": "as"
+      },
+      {
+        "text": "state",
+        "wnsn": "4",
+        "lemma": "state"
+      },
+      {
+        "text": "funds",
+        "wnsn": "1",
+        "lemma": "funds"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "Barber , who is in his 13th year as a legislator , said there `` are some members of our congressional delegation in Washington who would like to see it ( the resolution ) passed '' .",
+    "tokens": [
+      {
+        "text": "Barber",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "who",
+        "lemma": "who"
+      },
+      {
+        "text": "is",
+        "wnsn": "3",
+        "lemma": "be"
+      },
+      {
+        "text": "in",
+        "lemma": "in"
+      },
+      {
+        "text": "his",
+        "lemma": "his"
+      },
+      {
+        "text": "13th",
+        "wnsn": "1",
+        "lemma": "13th"
+      },
+      {
+        "text": "year",
+        "wnsn": "1",
+        "lemma": "year"
+      },
+      {
+        "text": "as",
+        "lemma": "as"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "legislator",
+        "wnsn": "1",
+        "lemma": "legislator"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "said",
+        "wnsn": "1",
+        "lemma": "say"
+      },
+      {
+        "text": "there",
+        "lemma": "there"
+      },
+      {
+        "text": "``",
+        "lemma": "``"
+      },
+      {
+        "text": "are",
+        "wnsn": "4",
+        "lemma": "be"
+      },
+      {
+        "text": "some",
+        "wnsn": "1",
+        "lemma": "some"
+      },
+      {
+        "text": "members",
+        "wnsn": "1",
+        "lemma": "member"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "our",
+        "lemma": "our"
+      },
+      {
+        "text": "congressional",
+        "wnsn": "1",
+        "lemma": "congressional"
+      },
+      {
+        "text": "delegation",
+        "wnsn": "1",
+        "lemma": "delegation"
+      },
+      {
+        "text": "in",
+        "lemma": "in"
+      },
+      {
+        "text": "Washington",
+        "wnsn": "3",
+        "lemma": "washington"
+      },
+      {
+        "text": "who",
+        "lemma": "who"
+      },
+      {
+        "text": "would like",
+        "lemma": "would_like"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "see",
+        "wnsn": "3",
+        "lemma": "see"
+      },
+      {
+        "text": "it",
+        "lemma": "it"
+      },
+      {
+        "text": "(",
+        "lemma": "("
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "resolution",
+        "wnsn": "1",
+        "lemma": "resolution"
+      },
+      {
+        "text": ")",
+        "lemma": ")"
+      },
+      {
+        "text": "passed",
+        "wnsn": "9",
+        "lemma": "pass"
+      },
+      {
+        "text": "''",
+        "lemma": "''"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "But he added that none of Georgia 's congressmen specifically asked him to offer the resolution .",
+    "tokens": [
+      {
+        "text": "But",
+        "lemma": "But"
+      },
+      {
+        "text": "he",
+        "lemma": "he"
+      },
+      {
+        "text": "added",
+        "wnsn": "2",
+        "lemma": "add"
+      },
+      {
+        "text": "that",
+        "lemma": "that"
+      },
+      {
+        "text": "none",
+        "lemma": "none"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "Georgia",
+        "wnsn": "1",
+        "lemma": "georgia"
+      },
+      {
+        "text": "'s",
+        "lemma": "'s"
+      },
+      {
+        "text": "congressmen",
+        "wnsn": "1",
+        "lemma": "congressman"
+      },
+      {
+        "text": "specifically",
+        "wnsn": "1",
+        "lemma": "specifically"
+      },
+      {
+        "text": "asked",
+        "wnsn": "2",
+        "lemma": "ask"
+      },
+      {
+        "text": "him",
+        "lemma": "him"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "offer",
+        "wnsn": "2",
+        "lemma": "offer"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "resolution",
+        "wnsn": "1",
+        "lemma": "resolution"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "The resolution , which Barber tossed into the House hopper Friday , will be formally read Monday .",
+    "tokens": [
+      {
+        "text": "The",
+        "lemma": "The"
+      },
+      {
+        "text": "resolution",
+        "wnsn": "1",
+        "lemma": "resolution"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "which",
+        "lemma": "which"
+      },
+      {
+        "text": "Barber",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": "tossed",
+        "wnsn": "3",
+        "lemma": "toss"
+      },
+      {
+        "text": "into",
+        "lemma": "into"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "House",
+        "wnsn": "1",
+        "lemma": "group"
+      },
+      {
+        "text": "hopper",
+        "wnsn": "1",
+        "lemma": "hopper"
+      },
+      {
+        "text": "Friday",
+        "wnsn": "1",
+        "lemma": "friday"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "will",
+        "lemma": "will"
+      },
+      {
+        "text": "be",
+        "lemma": "be"
+      },
+      {
+        "text": "formally",
+        "wnsn": "1",
+        "lemma": "formally"
+      },
+      {
+        "text": "read",
+        "wnsn": "3",
+        "lemma": "read"
+      },
+      {
+        "text": "Monday",
+        "wnsn": "1",
+        "lemma": "monday"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "It says that `` in the event Congress does provide this increase in federal funds '' , the State Board of Education should be directed to `` give priority '' to teacher pay raises .",
+    "tokens": [
+      {
+        "text": "It",
+        "lemma": "It"
+      },
+      {
+        "text": "says",
+        "wnsn": "2",
+        "lemma": "say"
+      },
+      {
+        "text": "that",
+        "lemma": "that"
+      },
+      {
+        "text": "``",
+        "lemma": "``"
+      },
+      {
+        "text": "in",
+        "lemma": "in"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "event",
+        "wnsn": "2",
+        "lemma": "event"
+      },
+      {
+        "text": "Congress",
+        "wnsn": "1",
+        "lemma": "group"
+      },
+      {
+        "text": "does",
+        "lemma": "does"
+      },
+      {
+        "text": "provide",
+        "wnsn": "1",
+        "lemma": "provide"
+      },
+      {
+        "text": "this",
+        "lemma": "this"
+      },
+      {
+        "text": "increase",
+        "wnsn": "2",
+        "lemma": "increase"
+      },
+      {
+        "text": "in",
+        "lemma": "in"
+      },
+      {
+        "text": "federal",
+        "wnsn": "1",
+        "lemma": "federal"
+      },
+      {
+        "text": "funds",
+        "wnsn": "1",
+        "lemma": "fund"
+      },
+      {
+        "text": "''",
+        "lemma": "''"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "State Board of Education",
+        "wnsn": "1",
+        "lemma": "group"
+      },
+      {
+        "text": "should",
+        "lemma": "should"
+      },
+      {
+        "text": "be",
+        "lemma": "be"
+      },
+      {
+        "text": "directed",
+        "wnsn": "1",
+        "lemma": "direct"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "``",
+        "lemma": "``"
+      },
+      {
+        "text": "give",
+        "wnsn": "1",
+        "lemma": "give"
+      },
+      {
+        "text": "priority",
+        "wnsn": "1",
+        "lemma": "priority"
+      },
+      {
+        "text": "''",
+        "lemma": "''"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "teacher",
+        "wnsn": "1",
+        "lemma": "teacher"
+      },
+      {
+        "text": "pay",
+        "wnsn": "1",
+        "lemma": "pay"
+      },
+      {
+        "text": "raises",
+        "wnsn": "1",
+        "lemma": "raise"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "After a long , hot controversy , Miller County has a new school superintendent , elected , as a policeman put it , in the `` coolest election I ever saw in this county '' .",
+    "tokens": [
+      {
+        "text": "After",
+        "lemma": "After"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "long",
+        "wnsn": "1",
+        "lemma": "long"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "hot",
+        "wnsn": "3",
+        "lemma": "hot"
+      },
+      {
+        "text": "controversy",
+        "wnsn": "1",
+        "lemma": "controversy"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "Miller County",
+        "wnsn": "1",
+        "lemma": "location"
+      },
+      {
+        "text": "has",
+        "wnsn": "4",
+        "lemma": "have"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "new",
+        "wnsn": "1",
+        "lemma": "new"
+      },
+      {
+        "text": "school superintendent",
+        "wnsn": "1",
+        "lemma": "school_superintendent"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "elected",
+        "wnsn": "1",
+        "lemma": "elect"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "as",
+        "lemma": "as"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "policeman",
+        "wnsn": "1",
+        "lemma": "policeman"
+      },
+      {
+        "text": "put",
+        "wnsn": "3",
+        "lemma": "put"
+      },
+      {
+        "text": "it",
+        "lemma": "it"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "in",
+        "lemma": "in"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "``",
+        "lemma": "``"
+      },
+      {
+        "text": "coolest",
+        "wnsn": "0",
+        "lemma": "cool"
+      },
+      {
+        "text": "election",
+        "wnsn": "1",
+        "lemma": "election"
+      },
+      {
+        "text": "I",
+        "lemma": "I"
+      },
+      {
+        "text": "ever",
+        "wnsn": "1",
+        "lemma": "ever"
+      },
+      {
+        "text": "saw",
+        "wnsn": "3",
+        "lemma": "see"
+      },
+      {
+        "text": "in this",
+        "lemma": "in_this"
+      },
+      {
+        "text": "county",
+        "wnsn": "1",
+        "lemma": "county"
+      },
+      {
+        "text": "''",
+        "lemma": "''"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "The new school superintendent is Harry Davis , a veteran agriculture teacher , who defeated Felix Bush , a school principal and chairman of the Miller County Democratic Executive Committee .",
+    "tokens": [
+      {
+        "text": "The",
+        "lemma": "The"
+      },
+      {
+        "text": "new",
+        "wnsn": "1",
+        "lemma": "new"
+      },
+      {
+        "text": "school superintendent",
+        "wnsn": "1",
+        "lemma": "school_superintendent"
+      },
+      {
+        "text": "is",
+        "wnsn": "2",
+        "lemma": "be"
+      },
+      {
+        "text": "Harry Davis",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "veteran",
+        "wnsn": "1",
+        "lemma": "veteran"
+      },
+      {
+        "text": "agriculture",
+        "wnsn": "1",
+        "lemma": "agriculture"
+      },
+      {
+        "text": "teacher",
+        "wnsn": "1",
+        "lemma": "teacher"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "who",
+        "lemma": "who"
+      },
+      {
+        "text": "defeated",
+        "wnsn": "1",
+        "lemma": "defeat"
+      },
+      {
+        "text": "Felix Bush",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "school principal",
+        "wnsn": "1",
+        "lemma": "school_principal"
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "chairman",
+        "wnsn": "1",
+        "lemma": "chairman"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "Miller County Democratic Executive Committee",
+        "wnsn": "1",
+        "lemma": "group"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "Davis received 1119 votes in Saturday 's election , and Bush got 402 .",
+    "tokens": [
+      {
+        "text": "Davis",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": "received",
+        "wnsn": "1",
+        "lemma": "receive"
+      },
+      {
+        "text": "1119",
+        "lemma": "1119"
+      },
+      {
+        "text": "votes",
+        "wnsn": "2",
+        "lemma": "vote"
+      },
+      {
+        "text": "in",
+        "lemma": "in"
+      },
+      {
+        "text": "Saturday",
+        "wnsn": "1",
+        "lemma": "saturday"
+      },
+      {
+        "text": "'s",
+        "lemma": "'s"
+      },
+      {
+        "text": "election",
+        "wnsn": "1",
+        "lemma": "election"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "Bush",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": "got",
+        "wnsn": "4",
+        "lemma": "get"
+      },
+      {
+        "text": "402",
+        "lemma": "402"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "Ordinary Carey Williams , armed with a pistol , stood by at the polls to insure order .",
+    "tokens": [
+      {
+        "text": "Ordinary",
+        "wnsn": "1",
+        "lemma": "ordinary"
+      },
+      {
+        "text": "Carey Williams",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "armed",
+        "wnsn": "1",
+        "lemma": "arm"
+      },
+      {
+        "text": "with",
+        "lemma": "with"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "pistol",
+        "wnsn": "1",
+        "lemma": "pistol"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "stood by",
+        "wnsn": "1",
+        "lemma": "stand_by"
+      },
+      {
+        "text": "at",
+        "lemma": "at"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "polls",
+        "wnsn": "1",
+        "lemma": "polls"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "insure",
+        "wnsn": "4",
+        "lemma": "insure"
+      },
+      {
+        "text": "order",
+        "wnsn": "3",
+        "lemma": "order"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "`` This was the coolest , calmest election I ever saw '' , Colquitt Policeman Tom Williams said .",
+    "tokens": [
+      {
+        "text": "``",
+        "lemma": "``"
+      },
+      {
+        "text": "This",
+        "lemma": "This"
+      },
+      {
+        "text": "was",
+        "wnsn": "1",
+        "lemma": "be"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "coolest",
+        "wnsn": "0",
+        "lemma": "cool"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "calmest",
+        "wnsn": "0",
+        "lemma": "calm"
+      },
+      {
+        "text": "election",
+        "wnsn": "1",
+        "lemma": "election"
+      },
+      {
+        "text": "I",
+        "lemma": "I"
+      },
+      {
+        "text": "ever",
+        "wnsn": "1",
+        "lemma": "ever"
+      },
+      {
+        "text": "saw",
+        "wnsn": "3",
+        "lemma": "see"
+      },
+      {
+        "text": "''",
+        "lemma": "''"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "Colquitt Policeman Tom Williams",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": "said",
+        "wnsn": "1",
+        "lemma": "say"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "`` Being at the polls was just like being at church .",
+    "tokens": [
+      {
+        "text": "``",
+        "lemma": "``"
+      },
+      {
+        "text": "Being",
+        "wnsn": "3",
+        "lemma": "be"
+      },
+      {
+        "text": "at",
+        "lemma": "at"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "polls",
+        "wnsn": "1",
+        "lemma": "polls"
+      },
+      {
+        "text": "was",
+        "wnsn": "1",
+        "lemma": "be"
+      },
+      {
+        "text": "just",
+        "wnsn": "2",
+        "lemma": "just"
+      },
+      {
+        "text": "like",
+        "lemma": "like"
+      },
+      {
+        "text": "being",
+        "wnsn": "3",
+        "lemma": "be"
+      },
+      {
+        "text": "at",
+        "lemma": "at"
+      },
+      {
+        "text": "church",
+        "wnsn": "3",
+        "lemma": "church"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "I did n't smell a drop of liquor , and we did n't have a bit of trouble '' .",
+    "tokens": [
+      {
+        "text": "I",
+        "lemma": "I"
+      },
+      {
+        "text": "did",
+        "lemma": "did"
+      },
+      {
+        "text": "n't",
+        "wnsn": "0",
+        "lemma": "n't"
+      },
+      {
+        "text": "smell",
+        "wnsn": "1",
+        "lemma": "smell"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "drop",
+        "wnsn": "2",
+        "lemma": "drop"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "liquor",
+        "wnsn": "1",
+        "lemma": "liquor"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "we",
+        "lemma": "we"
+      },
+      {
+        "text": "did",
+        "lemma": "did"
+      },
+      {
+        "text": "n't",
+        "wnsn": "0",
+        "lemma": "n't"
+      },
+      {
+        "text": "have",
+        "wnsn": "3",
+        "lemma": "have"
+      },
+      {
+        "text": "a bit",
+        "lemma": "a_bit"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "trouble",
+        "wnsn": "2",
+        "lemma": "trouble"
+      },
+      {
+        "text": "''",
+        "lemma": "''"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "The campaign leading to the election was not so quiet , however .",
+    "tokens": [
+      {
+        "text": "The",
+        "lemma": "The"
+      },
+      {
+        "text": "campaign",
+        "wnsn": "1",
+        "lemma": "campaign"
+      },
+      {
+        "text": "leading",
+        "wnsn": "1",
+        "lemma": "lead_up"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "election",
+        "wnsn": "1",
+        "lemma": "election"
+      },
+      {
+        "text": "was",
+        "wnsn": "1",
+        "lemma": "be"
+      },
+      {
+        "text": "not",
+        "wnsn": "1",
+        "lemma": "not"
+      },
+      {
+        "text": "so",
+        "wnsn": "1",
+        "lemma": "so"
+      },
+      {
+        "text": "quiet",
+        "wnsn": "1",
+        "lemma": "quiet"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "however",
+        "wnsn": "1",
+        "lemma": "however"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "It was marked by controversy , anonymous midnight phone calls and veiled threats of violence .",
+    "tokens": [
+      {
+        "text": "It",
+        "lemma": "It"
+      },
+      {
+        "text": "was",
+        "lemma": "was"
+      },
+      {
+        "text": "marked",
+        "wnsn": "3",
+        "lemma": "mark"
+      },
+      {
+        "text": "by",
+        "lemma": "by"
+      },
+      {
+        "text": "controversy",
+        "wnsn": "1",
+        "lemma": "controversy"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "anonymous",
+        "wnsn": "1",
+        "lemma": "anonymous"
+      },
+      {
+        "text": "midnight",
+        "wnsn": "1",
+        "lemma": "midnight"
+      },
+      {
+        "text": "phone calls",
+        "wnsn": "1",
+        "lemma": "phone_call"
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "veiled",
+        "wnsn": "1",
+        "lemma": "veiled"
+      },
+      {
+        "text": "threats",
+        "wnsn": "3",
+        "lemma": "threat"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "violence",
+        "wnsn": "1",
+        "lemma": "violence"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "The former county school superintendent , George P. Callan , shot himself to death March 18 , four days after he resigned his post in a dispute with the county school board .",
+    "tokens": [
+      {
+        "text": "The",
+        "lemma": "The"
+      },
+      {
+        "text": "former",
+        "wnsn": "1",
+        "lemma": "former"
+      },
+      {
+        "text": "county",
+        "wnsn": "1",
+        "lemma": "county"
+      },
+      {
+        "text": "school superintendent",
+        "wnsn": "1",
+        "lemma": "school_superintendent"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "George P. Callan",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "shot",
+        "wnsn": "2",
+        "lemma": "shoot"
+      },
+      {
+        "text": "himself",
+        "lemma": "himself"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "death",
+        "wnsn": "3",
+        "lemma": "death"
+      },
+      {
+        "text": "March",
+        "wnsn": "1",
+        "lemma": "march"
+      },
+      {
+        "text": "18",
+        "lemma": "18"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "four",
+        "wnsn": "1",
+        "lemma": "four"
+      },
+      {
+        "text": "days",
+        "wnsn": "1",
+        "lemma": "day"
+      },
+      {
+        "text": "after",
+        "lemma": "after"
+      },
+      {
+        "text": "he",
+        "lemma": "he"
+      },
+      {
+        "text": "resigned",
+        "wnsn": "1",
+        "lemma": "resign"
+      },
+      {
+        "text": "his",
+        "lemma": "his"
+      },
+      {
+        "text": "post",
+        "wnsn": "3",
+        "lemma": "post"
+      },
+      {
+        "text": "in",
+        "lemma": "in"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "dispute",
+        "wnsn": "1",
+        "lemma": "dispute"
+      },
+      {
+        "text": "with",
+        "lemma": "with"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "county",
+        "wnsn": "1",
+        "lemma": "county"
+      },
+      {
+        "text": "school board",
+        "wnsn": "1",
+        "lemma": "school_board"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "During the election campaign , both candidates , Davis and Bush , reportedly received anonymous telephone calls .",
+    "tokens": [
+      {
+        "text": "During",
+        "lemma": "During"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "election",
+        "wnsn": "1",
+        "lemma": "election"
+      },
+      {
+        "text": "campaign",
+        "wnsn": "1",
+        "lemma": "campaign"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "both",
+        "lemma": "both"
+      },
+      {
+        "text": "candidates",
+        "wnsn": "1",
+        "lemma": "candidate"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "Davis",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "Bush",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "reportedly",
+        "wnsn": "1",
+        "lemma": "reportedly"
+      },
+      {
+        "text": "received",
+        "wnsn": "1",
+        "lemma": "receive"
+      },
+      {
+        "text": "anonymous",
+        "wnsn": "1",
+        "lemma": "anonymous"
+      },
+      {
+        "text": "telephone calls",
+        "wnsn": "1",
+        "lemma": "telephone_call"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "Ordinary Williams said he , too , was subjected to anonymous calls soon after he scheduled the election .",
+    "tokens": [
+      {
+        "text": "Ordinary",
+        "wnsn": "1",
+        "lemma": "ordinary"
+      },
+      {
+        "text": "Williams",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": "said",
+        "wnsn": "1",
+        "lemma": "say"
+      },
+      {
+        "text": "he",
+        "lemma": "he"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "too",
+        "wnsn": "2",
+        "lemma": "too"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "was",
+        "lemma": "was"
+      },
+      {
+        "text": "subjected",
+        "wnsn": "1",
+        "lemma": "subject"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "anonymous",
+        "wnsn": "1",
+        "lemma": "anonymous"
+      },
+      {
+        "text": "calls",
+        "wnsn": "1",
+        "lemma": "call"
+      },
+      {
+        "text": "soon",
+        "wnsn": "1",
+        "lemma": "soon"
+      },
+      {
+        "text": "after",
+        "lemma": "after"
+      },
+      {
+        "text": "he",
+        "lemma": "he"
+      },
+      {
+        "text": "scheduled",
+        "wnsn": "1",
+        "lemma": "schedule"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "election",
+        "wnsn": "1",
+        "lemma": "election"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "Many local citizens feared that there would be irregularities at the polls , and Williams got himself a permit to carry a gun and promised an orderly election .",
+    "tokens": [
+      {
+        "text": "Many",
+        "wnsn": "1",
+        "lemma": "many"
+      },
+      {
+        "text": "local",
+        "wnsn": "0",
+        "lemma": "local"
+      },
+      {
+        "text": "citizens",
+        "wnsn": "1",
+        "lemma": "citizen"
+      },
+      {
+        "text": "feared",
+        "wnsn": "1",
+        "lemma": "fear"
+      },
+      {
+        "text": "that",
+        "lemma": "that"
+      },
+      {
+        "text": "there",
+        "lemma": "there"
+      },
+      {
+        "text": "would",
+        "lemma": "would"
+      },
+      {
+        "text": "be",
+        "wnsn": "2",
+        "lemma": "be"
+      },
+      {
+        "text": "irregularities",
+        "wnsn": "1",
+        "lemma": "irregularity"
+      },
+      {
+        "text": "at",
+        "lemma": "at"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "polls",
+        "wnsn": "1",
+        "lemma": "polls"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "Williams",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": "got",
+        "wnsn": "1",
+        "lemma": "get"
+      },
+      {
+        "text": "himself",
+        "lemma": "himself"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "permit",
+        "wnsn": "1",
+        "lemma": "permit"
+      },
+      {
+        "text": "to",
+        "lemma": "to"
+      },
+      {
+        "text": "carry",
+        "wnsn": "2",
+        "lemma": "carry"
+      },
+      {
+        "text": "a",
+        "lemma": "a"
+      },
+      {
+        "text": "gun",
+        "wnsn": "1",
+        "lemma": "gun"
+      },
+      {
+        "text": "and",
+        "lemma": "and"
+      },
+      {
+        "text": "promised",
+        "wnsn": "2",
+        "lemma": "promise"
+      },
+      {
+        "text": "an",
+        "lemma": "an"
+      },
+      {
+        "text": "orderly",
+        "wnsn": "1",
+        "lemma": "orderly"
+      },
+      {
+        "text": "election",
+        "wnsn": "1",
+        "lemma": "election"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "Sheriff Felix Tabb said the ordinary apparently made good his promise .",
+    "tokens": [
+      {
+        "text": "Sheriff Felix Tabb",
+        "wnsn": "1",
+        "lemma": "person"
+      },
+      {
+        "text": "said",
+        "wnsn": "1",
+        "lemma": "say"
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "ordinary",
+        "wnsn": "1",
+        "lemma": "ordinary"
+      },
+      {
+        "text": "apparently",
+        "wnsn": "1",
+        "lemma": "apparently"
+      },
+      {
+        "text": "made good",
+        "wnsn": "1",
+        "lemma": "make_good"
+      },
+      {
+        "text": "his",
+        "lemma": "his"
+      },
+      {
+        "text": "promise",
+        "wnsn": "1",
+        "lemma": "promise"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "`` Everything went real smooth '' , the sheriff said .",
+    "tokens": [
+      {
+        "text": "``",
+        "lemma": "``"
+      },
+      {
+        "text": "Everything",
+        "lemma": "Everything"
+      },
+      {
+        "text": "went",
+        "wnsn": "8",
+        "lemma": "go"
+      },
+      {
+        "text": "real",
+        "wnsn": "1",
+        "lemma": "real"
+      },
+      {
+        "text": "smooth",
+        "wnsn": "1",
+        "lemma": "smooth"
+      },
+      {
+        "text": "''",
+        "lemma": "''"
+      },
+      {
+        "text": ",",
+        "lemma": ","
+      },
+      {
+        "text": "the",
+        "lemma": "the"
+      },
+      {
+        "text": "sheriff",
+        "wnsn": "1",
+        "lemma": "sheriff"
+      },
+      {
+        "text": "said",
+        "wnsn": "1",
+        "lemma": "say"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  },
+  {
+    "text": "`` There was n't a bit of trouble '' .",
+    "tokens": [
+      {
+        "text": "``",
+        "lemma": "``"
+      },
+      {
+        "text": "There",
+        "lemma": "There"
+      },
+      {
+        "text": "was",
+        "wnsn": "2",
+        "lemma": "be"
+      },
+      {
+        "text": "n't",
+        "wnsn": "0",
+        "lemma": "n't"
+      },
+      {
+        "text": "a bit",
+        "wnsn": "1",
+        "lemma": "a_bit"
+      },
+      {
+        "text": "of",
+        "lemma": "of"
+      },
+      {
+        "text": "trouble",
+        "wnsn": "2",
+        "lemma": "trouble"
+      },
+      {
+        "text": "''",
+        "lemma": "''"
+      },
+      {
+        "text": ".",
+        "lemma": "."
+      }
+    ]
+  }
+]
