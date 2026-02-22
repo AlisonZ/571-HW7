@@ -4,6 +4,12 @@ Update code in files:
 - wsd_inference
 - analysis
 
+
+Installs:
+- pip install gensim
+- pip install torch
+- pip install transformers
+
 Running the Code:
 1.  Commands to generate global sense representations and then do WSD inferences.
 - python generate_sense_representations.py --semcor_glob "./data/train/*" --output_file train_table_global.txt global
