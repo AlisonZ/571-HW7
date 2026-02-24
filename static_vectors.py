@@ -18,10 +18,14 @@ def get_context_vector(
         The context vector for the token, i.e. the average of all token vectors excluding this token's vector.
     """
     if sentence_length <= 1:
-        print(f"ZXXXXXX {sentence_vector}")
         return np.zeros_like(sentence_vector)
-    # TODO (1-4 lines): implement the context vector calculation
-    return
+
+    # Remove the averaging and return sentence vector to start state
+    sentence_sum = sentence_length * sentence_vector
+    # Subtract the token vector from the sentence vector to get the context sum
+    context_vector = sentence_sum - token_vector
+    # get average of context vector, which is 1 shorter since removing token
+    return context_vector/(sentence_length-1)
 
 
 def get_global_context_vectors(
@@ -46,6 +50,10 @@ def get_global_context_vectors(
         )
         for token in sentence["tokens"]
     )
-    # TODO (2-4 lines): compute the sentence vector and then the context vectors for each token, returning a tuple of the latter
-    # Note that `get_average_vector` has been imported from common.py
-    return tuple()  # replace with actual return value
+    sentence_vector = get_average_vector(word_vectors)
+    context_vectors = []
+    for token_vector in word_vectors:
+        context_vector = get_context_vector(sentence_vector, token_vector, sentence_length)
+        context_vectors.append(context_vector)
+  
+    return tuple(context_vectors)
