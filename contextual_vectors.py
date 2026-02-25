@@ -3,6 +3,7 @@ import torch.nn as nn
 from torch import Tensor
 from transformers import BatchEncoding
 from transformers.tokenization_utils_base import PreTrainedTokenizerBase
+from common import get_average_vector
 
 
 def tensor_to_numpy(tensor: Tensor) -> np.ndarray:
@@ -27,10 +28,11 @@ def get_word_vector(
     token_indices = inputs.word_to_tokens(word_index)
     if token_indices is None:
         raise ValueError(f"Word index {word_index} not found in inputs.")
-    # TODO (1-4 lines): extract from `token_vectors` the vectors corresponding to this word's tokens,
-    # and return their average as a numpy array
-    # Note: you can use the `tensor_to_numpy` helper defined above to convert a tensor to a numpy array
-    return
+
+    word_vectors = token_vectors[token_indices.start:token_indices.end]
+    word_vectors_avg = get_average_vector(tensor_to_numpy(word_vectors))
+
+    return word_vectors_avg
 
 
 def get_contextual_vectors(
@@ -57,7 +59,10 @@ def get_contextual_vectors(
     hidden_states = outputs.hidden_states
     # last_layer: (batch_size, sequence_length, hidden_size)
     last_layer = hidden_states[-1]
-    # TODO (1-3 lines): get the token vectors from `last_layer` (i.e. shape (sequence_length, hidden_size)
-    # and return a tuple of word vectors, using `get_word_vector` defined above
-    # Note: since we only pass in one sentence, batch_size = 1
-    return tuple()  # replace with actual return value
+    token_vectors = last_layer[0]
+    word_vectors = []
+    for i in range(len(words)):
+        word_vector = get_word_vector(inputs, token_vectors, i)
+        word_vectors.append(word_vector)
+
+    return tuple(word_vectors) 

@@ -48,18 +48,19 @@ def add_senses_from_sentence(
         sense_counts: A Counter tracking the number of occurrences of each lemma-sense.
     """
     context_vectors = context_vectors_function(sentence)
-    for index, token in enumerate(sentence["tokens"]):
-        lemma = token.get("lemma")
-        wnsn = token.get("wnsn")
-        if lemma is None or wnsn is None:
-            continue
-        context_vector = context_vectors[index]
-        key = f"{lemma}-{wnsn}"
-        if key not in table:
-            table[key] = context_vector
-        else:
-            table[key] += context_vector
-        sense_counts[key] += 1
+    # print(f'HIII {context_vectors}')
+    # for index, token in enumerate(sentence["tokens"]):
+    #     lemma = token.get("lemma")
+    #     wnsn = token.get("wnsn")
+    #     if lemma is None or wnsn is None:
+    #         continue
+    #     context_vector = context_vectors[index]
+    #     key = f"{lemma}-{wnsn}"
+    #     if key not in table:
+    #         table[key] = context_vector
+    #     else:
+    #         table[key] += context_vector
+    #     sense_counts[key] += 1
 
 
 if __name__ == "__main__":
@@ -78,12 +79,13 @@ if __name__ == "__main__":
     global_parser.add_argument(
         "--glove_file",
         type=str,
-        default="/dropbox/25-26/571W/hw7/data/dolma_300_2024_1.2M.100_combined.txt",
+        default="./data/dolma_300_2024_1.2M.100_combined.txt",
         help="Path to the GloVe file.",
     )
     contextual_parser = subparsers.add_parser(
         "contextual", help="Use contextual vectors."
     )
+
     contextual_parser.add_argument(
         "--hf_home",
         type=str,
@@ -99,9 +101,13 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     if args.vector_mode == "global":
-        glove_vectors = KeyedVectors.load_word2vec_format(
-            args.glove_file, binary=False, no_header=True
-        )
+        # TODO: uncomment for working version
+        # glove_vectors = KeyedVectors.load_word2vec_format(
+        #     args.glove_file, binary=False, no_header=True
+        # )
+        # TODO: Remove for real version. This is for testikng
+        # glove_vectors.save('glove_vectors.kv')
+        glove_vectors = KeyedVectors.load('glove_vectors.kv')
         sense_table = senses_from_sentence_files(
             args.semcor_glob,
             lambda sentence: get_global_context_vectors(sentence, glove_vectors),
@@ -109,6 +115,7 @@ if __name__ == "__main__":
         save_sense_table(sense_table, args.output_file)
 
     elif args.vector_mode == "contextual":
+        print(f'CONTEXT {args.output_file}')
         # it's not good practice to do these imports in main, but this order of
         # operations is needed in order to have transformers load models from a
         # shared cache directory instead of downloading the model separately for every user
@@ -125,4 +132,4 @@ if __name__ == "__main__":
             args.semcor_glob,
             lambda sentence: get_contextual_vectors(sentence, model, tokenizer),
         )
-        save_sense_table(sense_table, args.output_file)
+        # save_sense_table(sense_table, args.output_file)

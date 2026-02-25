@@ -124,16 +124,17 @@ if __name__ == "__main__":
     global_parser.add_argument(
         "--glove_file",
         type=str,
-        default="/dropbox/25-26/571W/hw7/data/dolma_300_2024_1.2M.100_combined.txt",
+        default="./data/dolma_300_2024_1.2M.100_combined.txt",
         help="Path to the GloVe file.",
     )
     contextual_parser = subparsers.add_parser(
         "contextual", help="Use contextual vectors."
     )
+    # TODO: reset default to  default="/mnt/dropbox/25-26/571W/.cache/distilroberta-base",
     contextual_parser.add_argument(
         "--hf_home",
         type=str,
-        default="/mnt/dropbox/25-26/571W/.cache/distilroberta-base",
+        default="./distilroberta-base",
         help="Path to the Hugging Face cache directory.",
     )
     contextual_parser.add_argument(
@@ -151,9 +152,13 @@ if __name__ == "__main__":
     grouped_table = grouped_sense_table(sense_table)
 
     if args.vector_mode == "global":
-        glove_vectors = KeyedVectors.load_word2vec_format(
-            args.glove_file, binary=False, no_header=True
-        )
+        # TODO: uncomment for working version
+        # glove_vectors = KeyedVectors.load_word2vec_format(
+        #     args.glove_file, binary=False, no_header=True
+        # )
+        # TODO: remove for real version
+        # glove_vectors.save('wsd_glove_vectors.kv')
+        glove_vectors = KeyedVectors.load('wsd_glove_vectors.kv')
         inferences = inferences_from_sentence_files(
             args.semcor_glob,
             lambda sentence: get_global_context_vectors(sentence, glove_vectors),
