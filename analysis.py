@@ -5,16 +5,17 @@ from sklearn.metrics import precision_score, recall_score, f1_score
 
 def add_mfs_column(inferences: pd.DataFrame, column_name: str = "mfs_sense") -> None:
     """Add a column to the DataFrame representing the MFS baseline."""
-    # TODO (~1 line): add column to `inferences` representing what the MFS prediction would be
-
+    inferences[column_name] = 1
 
 def calculate_accuracy(
     inferences: pd.DataFrame, gold_column: str, prediction_column: str
 ) -> float:
     """Calculate accuracy (i.e. percentage of cases where predicted sense equals the gold sense)
     given gold and prediction columns."""
-    # TODO (~1-2 lines): Compute accuracy by comparing gold_column and prediction_column
-    return
+    gold_inf = inferences[gold_column]
+    pred_inf = inferences[prediction_column]
+
+    return (gold_inf == pred_inf).mean()
 
 
 def calculate_precision(inferences: pd.DataFrame, column="selected_sense") -> float:
@@ -48,7 +49,6 @@ def calculate_f1(inferences: pd.DataFrame, column="selected_sense") -> float:
 
 
 if __name__ == "__main__":
-
     # Parse command-line argument for inference CSV file
     parser = argparse.ArgumentParser(description="WSD Analysis")
     parser.add_argument(
