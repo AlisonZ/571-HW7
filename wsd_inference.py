@@ -19,8 +19,14 @@ def cosine_similarity(vector1: np.ndarray, vector2: np.ndarray) -> float:
     if vector1.shape[0] != vector2.shape[0]:
         raise ValueError("Input vectors must have the same dimensionality.")
 
-    # TODO (1 - 4 lines): Compute cosine similarity between vector1 and vector2
-    return
+    dot_product = np.dot(vector1, vector2)  
+    norm_vec1 = np.linalg.norm(vector1)
+    norm_vec2 = np.linalg.norm(vector2)
+
+    if norm_vec1 == 0 or norm_vec2 == 0:
+        return 0
+
+    return dot_product / (norm_vec1 * norm_vec2)
 
 
 def select_sense(
@@ -41,11 +47,25 @@ def select_sense(
     Returns:
         int: The selected sense ID. If the lemma is not found, return -1 (or the most frequent sense if mfs_fallback is True).
     """
-    # TODO(~5-15 lines): Implement sense selection based on cosine similarity
-    # Get all sense vectors for the given lemma (if it's in the table), and return the integer ID with the highest similarity.
-    # If the lemma is not found, return either -1, or the most frequent sense if mfs_fallback is True.
-    return
 
+    if lemma not in sense_vector_table:
+        if mfs_fallback:
+            return 1
+        else:
+            return -1
+    
+    senses = sense_vector_table[lemma]
+    best_sense = None
+    best_sim = -1
+
+    for sense_id in senses:
+        sense_vector = senses[sense_id]
+        cos_sim = cosine_similarity(context_vector, sense_vector)
+        if cos_sim > best_sim:
+            best_sim = cos_sim
+            best_sense = sense_id
+
+    return best_sense
 
 def inferences_from_sentence_files(
     file_glob: str,

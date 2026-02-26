@@ -48,19 +48,18 @@ def add_senses_from_sentence(
         sense_counts: A Counter tracking the number of occurrences of each lemma-sense.
     """
     context_vectors = context_vectors_function(sentence)
-    # print(f'HIII {context_vectors}')
-    # for index, token in enumerate(sentence["tokens"]):
-    #     lemma = token.get("lemma")
-    #     wnsn = token.get("wnsn")
-    #     if lemma is None or wnsn is None:
-    #         continue
-    #     context_vector = context_vectors[index]
-    #     key = f"{lemma}-{wnsn}"
-    #     if key not in table:
-    #         table[key] = context_vector
-    #     else:
-    #         table[key] += context_vector
-    #     sense_counts[key] += 1
+    for index, token in enumerate(sentence["tokens"]):
+        lemma = token.get("lemma")
+        wnsn = token.get("wnsn")
+        if lemma is None or wnsn is None:
+            continue
+        context_vector = context_vectors[index]
+        key = f"{lemma}-{wnsn}"
+        if key not in table:
+            table[key] = context_vector
+        else:
+            table[key] += context_vector
+        sense_counts[key] += 1
 
 
 if __name__ == "__main__":
@@ -86,10 +85,12 @@ if __name__ == "__main__":
         "contextual", help="Use contextual vectors."
     )
 
+#TODO: reset for real versiondefault="/mnt/dropbox/25-26/571W/.cache/distilroberta-base",
+
     contextual_parser.add_argument(
         "--hf_home",
         type=str,
-        default="/mnt/dropbox/25-26/571W/.cache/distilroberta-base",
+        default="./.cache/distilroberta-base",
         help="Path to the Hugging Face cache directory.",
     )
     contextual_parser.add_argument(
@@ -115,7 +116,6 @@ if __name__ == "__main__":
         save_sense_table(sense_table, args.output_file)
 
     elif args.vector_mode == "contextual":
-        print(f'CONTEXT {args.output_file}')
         # it's not good practice to do these imports in main, but this order of
         # operations is needed in order to have transformers load models from a
         # shared cache directory instead of downloading the model separately for every user
@@ -132,4 +132,4 @@ if __name__ == "__main__":
             args.semcor_glob,
             lambda sentence: get_contextual_vectors(sentence, model, tokenizer),
         )
-        # save_sense_table(sense_table, args.output_file)
+        save_sense_table(sense_table, args.output_file)
